@@ -35,7 +35,7 @@ AVIATION_ACCIDENTS_URL \
     = 'https://aviation-safety.net/database/year/'
 
 AVIATION_ACCIDENTS_DATA_FILE \
-    = './Resources/AviationSafetyData.csv'
+    = './Resources/AviationAccidentsData.csv'
 
 BEGIN_YEAR \
     = 1972
