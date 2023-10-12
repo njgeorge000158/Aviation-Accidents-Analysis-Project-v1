@@ -1,5 +1,5 @@
 //Updates using localhost flask api example from rajib.
-let link = "http://localhost:8000/countrysearch?country=us";
+let link = "http://localhost:8000/all";
 
 d3.json(link).then(function(data) {
   let myData = data
