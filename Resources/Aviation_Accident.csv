@@ -1,0 +1,384 @@
+Unnamed: 0,acc. date,type,operator,fat.,location,dmg
+3,7 Jan 1972,Sud Aviation SE-210 Caravelle VI-R,Iberia,104,ca 15 km W of Ibiza Airport (IBZ),dst
+56,14 Mar 1972,Sud Aviation SE-210 Caravelle 10B3,Sterling Airways,112,ca 20 km W of Kalba,dst
+109,5 May 1972,Douglas DC-8-43,Alitalia,115,5 km SW of Palermo,dst
+124,18 May 1972,Antonov An-10A,Aeroflot / Ukraine,122,24 km from Kharkov Airport (HRK),dst
+148,14 Jun 1972,Douglas DC-8-53,Japan Air Lines - JAL,86,ca 20 km E of Delhi-Palam Airport (DEL),dst
+150,15 Jun 1972,Convair CV-880-22M-21,Cathay Pacific Airways,81,55 km SE of Pleiku,dst
+154,18 Jun 1972,Hawker Siddeley HS-121 Trident 1C,British European Airways - BEA,118,near Staines,dst
+216,14 Aug 1972,Ilyushin Il-62,Interflug,156,Königs Wusterhausen,dst
+238,31 Aug 1972,Ilyushin Il-18V,"Aeroflot, Kazakstan Civil Aviation Directorate",102,23 km N of Magnitogorsk Airport (MQF),dst
+261,1 Oct 1972,Ilyushin Il-18V,"Aeroflot, Moscow Civil Aviation Directorate",109,4 km W off Adler/Sochi Airport (AER),dst
+266,13 Oct 1972,Ilyushin Il-62,"Aeroflot, International Civil Aviation Directorate",174,11 km N of Moskva-Sheremetyevo Airport (SVO),dst
+277,27 Oct 1972,Vickers 724 Viscount,Air Inter,60,4 km W of Noirétable,dst
+302,28 Nov 1972,McDonnell Douglas DC-8-62,Japan Air Lines - JAL,61,Moskva-Sheremetyevo Airport (SVO),dst
+308,3 Dec 1972,Convair CV-990-30A-5 Coronado,Spantax,155,Tenerife-Los Rodeos International Airport (TCI),dst
+333,29 Dec 1972,Lockheed L-1011-385-1 TriStar 1,Eastern Air Lines,101,"Everglades, FL",dst
+347,22 Jan 1973,Boeing 707-3D3C,Nigeria Airways,176,Kano International Airport (KAN),dst
+362,19 Feb 1973,Tupolev Tu-154,"Aeroflot, International Civil Aviation Directorate",66,"0,5 km NE of Praha-Ruzyne International Airport (PRG)",dst
+365,21 Feb 1973,Boeing 727-224,Libyan Arab Airlines,108,35 km SE of Isma'iliya,dst
+369,24 Feb 1973,Ilyushin Il-18V,Aeroflot / Tajikistan,79,40 km from Ura-Tube,dst
+380,5 Mar 1973,McDonnell Douglas DC-9-32,Iberia,68,"near La Plance, near Nantes",dst
+381,5 Mar 1973,Convair CV-990-30A-5 Coronado,Spantax,68,"over La Plance, near Nantes",sub
+394,19 Mar 1973,Douglas C-54D-15-DC (DC-4),Air Vietnam,58,"6,5 km S of Buon Me Thuot (Ban Me Thuot)-Phung-Duc Airport (BMV)",w/o
+406,10 Apr 1973,Vickers 952 Vanguard,Invicta International Airways,108,15 km S of Basel/Mulhouse Airport (BSL),dst
+434,11 May 1973,Ilyushin Il-18B,Aeroflot / Azerbaijan,63,84 km S of Semipalatinsk,dst
+439,18 May 1973,Tupolev Tu-104B,"Aeroflot, East Siberia Civil Aviation Directorate",81,97 km W of Chita,dst
+481,11 Jul 1973,Boeing 707-345C,Varig,123,5 km W of Paris-Orly Airport (ORY),dst
+490,22 Jul 1973,Boeing 707-321B,Pan American World Airways (Pan Am),78,"3 km NE off Papeete-Faaa Airport (PPT), Tahiti",dst
+497,31 Jul 1973,McDonnell Douglas DC-9-31,Delta Air Lines,88,"Boston-Logan International Airport, MA (BOS)",dst
+506,13 Aug 1973,Sud Aviation SE-210 Caravelle 10R,Aviaco,85,3 km NE of La Coruña Airport (LCG),dst
+512,18 Aug 1973,Antonov An-24B,Aeroflot / Azerbaijan,56,"4,3 km E of Baku-Bina International Airport (BAK)",dst
+547,30 Sep 1973,Tupolev Tu-104B,Aeroflot / Uzbekistan,108,10 km SW of Sverdlovsk-Koltsovo Airport (SVX),dst
+557,13 Oct 1973,Tupolev Tu-104B,Aeroflot / Georgia,122,17 km NW of Moskva-Domodedovo Airport (DME),dst
+609,16 Dec 1973,Tupolev Tu-124V,Aeroflot / Lithuania,51,near Karacharovo,w/o
+618,22 Dec 1973,Sud Aviation SE-210 Caravelle VI-N,Royal Air Maroc - RAM,106,ca. 40 km E of Tangier-Boukhalef Airport (TNG),dst
+660,26 Jan 1974,Fokker F-28 Fellowship 1000,Türk Hava Yollari - THY,66,Izmir-Cumaovasi Airport (ADB),dst
+663,30 Jan 1974,Boeing 707-321B,Pan American World Airways (Pan Am),97,"1,2 km SW of Pago Pago International Airport (PPG)",dst
+681,3 Mar 1974,McDonnell Douglas DC-10-10,Türk Hava Yollari - THY,346,Bois d'Ermenonville,dst
+702,4 Apr 1974,Douglas DC-4,Wenela Air Services,78,"3,6 km from Francistown Airport (FRW)",dst
+710,22 Apr 1974,Boeing 707-321B,Pan American World Airways (Pan Am),107,68 km NW of Denpasar,dst
+712,27 Apr 1974,Ilyushin Il-18V,"Aeroflot, Leningrad Civil Aviation Directorate",109,"2,5 km E of Leningrad-Pulkovo Airport (LED)",dst
+795,8 Sep 1974,Boeing 707-331B,Trans World Airlines - TWA,88,"93 km W off Cephalonia, Greece",dst
+797,11 Sep 1974,McDonnell Douglas DC-9-31,Eastern Air Lines,72,"5,3 km S of Charlotte-Douglas Airport, NC (CLT)",dst
+800,15 Sep 1974,Boeing 727-121C,Air Vietnam,75,near Phan Rang Air Base (PHA),dst
+846,20 Nov 1974,Boeing 747-130,Lufthansa,59,Nairobi International Airport (NBO),dst
+858,1 Dec 1974,Boeing 727-231,Trans World Airlines - TWA,92,"Upperville, VA",dst
+860,4 Dec 1974,Douglas DC-8-55F,Martinair Holland,191,Maskeliya,dst
+869,22 Dec 1974,McDonnell Douglas DC-9-14,AVENSA,75,32 km from Maturin,dst
+952,16 Mar 1975,Fokker F-27 Friendship 400M,Lineas Aéreas del Estado - LADE,52,"35 km E of San Carlos de Bariloche International Airport, RN (BRC)",w/o
+968,4 Apr 1975,Lockheed C-5A Galaxy,United States Air Force - USAF,138,4 km NE of Saigon-Tan Son Nhat International Airport (SGN),dst
+1025,24 Jun 1975,Boeing 727-225,Eastern Air Lines,113,"New York-John F. Kennedy International Airport, NY (JFK)",dst
+1054,3 Aug 1975,Boeing 707-321C,Jordanian World Airways,188,near Amskroud,dst
+1067,20 Aug 1975,Ilyushin Il-62,CSA Ceskoslovenské Aerolinie,126,17 km NE of Damascus International Airport (DAM),dst
+1102,30 Sep 1975,Tupolev Tu-154A,Malev Hungarian Airlines,60,10 km off Beirut International Airport (BEY),w/o
+1115,27 Oct 1975,Convair CV-440-12,Transporte Aéreo Militar - TAM,67,Cerro Colorado,dst
+1116,30 Oct 1975,McDonnell Douglas DC-9-32,Inex-Adria Aviopromet,75,8 km NE of Praha-Ruzyne International Airport (PRG),dst
+1153,1 Jan 1976,Boeing 720-023B,Middle East Airlines - MEA,81,37 km NW of Al Qaysumah,dst
+1157,3 Jan 1976,Tupolev Tu-124V,"Aeroflot, North Kavkaz Civil Aviation Directorate",67,7 km W of Moskva-Vnukovo Airport (VKO),dst
+1191,6 Mar 1976,Ilyushin Il-18E,Aeroflot / Armenia,111,near Verkhnyaya Khava,dst
+1233,15 May 1976,Antonov An-24RV,Aeroflot / Ukraine,52,15 km SE of Chernigov,dst
+1274,28 Jul 1976,Ilyushin Il-18V,CSA Ceskoslovenské Aerolinie,76,"1,5 km NW of Bratislava-Ivanka Airport (BTS)",dst
+1285,15 Aug 1976,Vickers 785D Viscount,SAETA,59,Chimborazo Volcano,w/o
+1297,3 Sep 1976,Lockheed C-130H Hercules,Fuerza Aérea Venezolana - FAV,68,"near Terceira-Lajes Airport, Azores (TER)",dst
+1305,9 Sep 1976,Yakovlev Yak-40,"Aeroflot, North Kavkaz Civil Aviation Directorate",70,37 km S off Anapa [Black Sea],dst
+1306,9 Sep 1976,Antonov An-24RV,Aeroflot / Belarus,70,37 km S off Anapa [Black Sea],dst
+1309,10 Sep 1976,McDonnell Douglas DC-9-32,Inex-Adria Aviopromet,176,near Vrbovec,dst
+1310,10 Sep 1976,Hawker Siddeley HS-121 Trident 3B,British Airways,176,near Vrbovec,dst
+1314,19 Sep 1976,Boeing 727-2F2,Türk Hava Yollari - THY,154,near Isparta,dst
+1324,6 Oct 1976,Douglas DC-8-43,Cubana de Aviación,73,8 km W off Bridgetown International Airport (BGI),dst
+1325,12 Oct 1976,Sud Aviation SE-210 Caravelle VI-N,Indian Airlines,95,Bombay-Santacruz Airport (BOM),dst
+1328,13 Oct 1976,Boeing 707-131F,Lloyd Aéreo Boliviano - LAB,91,"0,6 km NW of Santa Cruz-El Trompillo Airport (SRZ)",dst
+1349,23 Nov 1976,NAMC YS-11A-500,Olympic Airways,50,19 km SE of Kozani-Philippos Airport (KZI),w/o
+1351,28 Nov 1976,Tupolev Tu-104B,"Aeroflot, Northern Civil Aviation Directorate",73,"near Klushino, Solnechnogorsky District",dst
+1368,25 Dec 1976,Boeing 707-366C,EgyptAir,71,ca 2 km NE of Bangkok-Don Muang International Airport (BKK),w/o
+1393,13 Jan 1977,Tupolev Tu-104A,"Aeroflot, Far East Civil Aviation Directorate",90,"3,5 km NE of Alma-Ata Airport (ALA)",dst
+1419,15 Feb 1977,Ilyushin Il-18V,Aeroflot / Uzbekistan,77,2 km S of Mineralnye Vody Airport (MRV),dst
+1446,27 Mar 1977,Boeing 747-206B,KLM Royal Dutch Airlines,583,Tenerife-Los Rodeos International Airport (TCI),dst
+1447,27 Mar 1977,Boeing 747-121,Pan American World Airways (Pan Am),583,Tenerife-Los Rodeos International Airport (TCI),dst
+1457,4 Apr 1977,McDonnell Douglas DC-9-31,Southern Airways,72,"New Hope, GA",dst
+1505,27 May 1977,Ilyushin Il-62M,"Aeroflot, International Civil Aviation Directorate",67,"1,3 km SW of Havana-José Martí International Airport (HAV)",dst
+1631,19 Nov 1977,Boeing 727-282,TAP Air Portugal,131,Funchal Airport (FNC),dst
+1644,2 Dec 1977,Tupolev Tu-154A,Libyan Arab Airlines,59,near Benghazi,w/o
+1645,4 Dec 1977,Boeing 737-2H6,Malaysian Airlines System - MAS,100,near Tanjong Kupang,dst
+1671,1 Jan 1978,Boeing 747-237B,Air-India,213,3 km W off Bombay-Santacruz Airport (BOM),dst
+1720,16 Mar 1978,Tupolev Tu-134,Balkan Bulgarian Airlines,73,near Gabare,dst
+1848,25 Sep 1978,Boeing 727-214,Pacific Southwest Airlines - PSA,144,"5,6 km NE of San Diego International Airport, CA (SAN)",dst
+1888,15 Nov 1978,McDonnell Douglas DC-8-63CF,Loftleidir,183,"2,1 km NE of Colombo-Bandaranaike International Airport (CMB)",dst
+1894,19 Nov 1978,Antonov An-12B,Indian Air Force - IAF,78,"0,5 km from Leh Airport (IXL)",dst
+1923,23 Dec 1978,McDonnell Douglas DC-9-32,Alitalia,108,3 km N off Palermo-Punta Raisi Airport (PMO),dst
+1962,12 Feb 1979,Vickers 748D Viscount,Air Rhodesia,59,near Kariba,w/o
+1984,17 Mar 1979,Tupolev Tu-104B,Aeroflot / Ukraine,58,near Moskva-Vnukovo Airport (VKO),w/o
+2006,23 Apr 1979,Vickers 785D Viscount,SAETA,57,Pastaza Province,dst
+2023,25 May 1979,McDonnell Douglas DC-10-10,American Airlines,273,"Chicago-O'Hare International Airport, IL (ORD)",dst
+2065,11 Jul 1979,Fokker F-28 Fellowship 1000,Garuda Indonesia Airways,61,Mount Sibayak,dst
+2095,11 Aug 1979,Tupolev Tu-134A,Aeroflot / Belarus,178,2 km NE of Kurilovka,dst
+2096,11 Aug 1979,Tupolev Tu-134A,Aeroflot / Moldova,178,"3,5 km SE of Kurilovka",dst
+2107,29 Aug 1979,Tupolev Tu-124V,"Aeroflot, Privolzhsk Civil Aviation Directorate",63,near Kirsanov,dst
+2153,31 Oct 1979,McDonnell Douglas DC-10-10,Western Air Lines,73,Mexico City-Juarez International Airport (MEX),w/o
+2175,26 Nov 1979,Boeing 707-340C,Pakistan International Airlines - PIA,156,48 km N of Taif,dst
+2177,28 Nov 1979,McDonnell Douglas DC-10-30,Air New Zealand,257,Mount Erebus,dst
+2210,21 Jan 1980,Boeing 727-86,Iran Air,128,29 km N of Tehran-Mehrabad Airport (THR),dst
+2245,14 Mar 1980,Ilyushin Il-62,LOT Polskie Linie Lotnicze,87,"0,8 km NW of Warszawa-Okecie Airport (WAW)",dst
+2266,12 Apr 1980,Boeing 727-27C,Transbrasil,55,"22 km NNE of Florianópolis-Hercilio Luz International Airport, SC (FLN)",dst
+2275,25 Apr 1980,Boeing 727-46,Dan-Air Services,146,Esperanzo Forest,dst
+2316,27 Jun 1980,Douglas DC-9-15,Aerolinee Itavia,81,"25 km NE off Ustica, Italy [Tyrrhenian Sea]",dst
+2322,8 Jul 1980,Tupolev Tu-154B-2,"Aeroflot, Kazakstan Civil Aviation Directorate",166,5 km from Alma-Ata Airport (ALA),dst
+2352,19 Aug 1980,Lockheed L-1011 TriStar 200,Saudi Arabian Airlines,301,Riyadh International Airport (RUH),dst
+2376,14 Sep 1980,Lockheed C-130E Hercules,Royal Saudi Air Force - RSAF,89,near Madinah-Mohammad Bin Abdulaziz Airport (MED),dst
+2445,21 Dec 1980,Sud Aviation SE-210 Caravelle VI-R,TAC Colombia,70,near Riohacha,dst
+2474,7 Feb 1981,Tupolev Tu-104A,Soviet Navy,50,ca 20 km S of Leningrad,w/o
+2571,20 Jul 1981,Fokker F-27 Friendship 600RF,Somali Airlines,50,near Balad,dst
+2592,22 Aug 1981,Boeing 737-222,Far Eastern Air Transport - FEAT,110,"near Sanyi Township, Miaoli County",dst
+2595,26 Aug 1981,Vickers 745D Viscount,Aeropesca Colombia,50,ca 48 km N of Florencia,dst
+2618,29 Sep 1981,Lockheed C-130H Hercules,Islamic Republic of Iran Air Force - IRIAF,80,Kahrisak,w/o
+2641,16 Nov 1981,Tupolev Tu-154B-2,"Aeroflot, Krasnoyarsk Civil Aviation Directorate",99,Noril'sk Airport (NSK),w/o
+2649,1 Dec 1981,McDonnell Douglas DC-9-81 (MD-81),Inex-Adria Aviopromet,180,24 km SE of Ajaccio-Campo dell'Oro Airport (AJA),dst
+2676,13 Jan 1982,Boeing 737-222,Air Florida,78,"1,4 km  N of Washington-National Airport, DC (DCA) [Potomac River]",dst
+2677,14 Jan 1982,Antonov An-26,Ethiopian Air Force,73,near Addis Ababa,dst
+2693,5 Feb 1982,Fairchild C-123J Provider,Republic of Korea Air Force - ROKAF,53,near Jeju (Cheju) International Airport (CJU),w/o
+2732,26 Apr 1982,Hawker Siddeley HS-121 Trident 2E,CAAC,112,"Gongcheng County, Guilin, Guangxi Zhuang Autonomous Region",dst
+2766,1 Jun 1982,Fairchild C-123J Provider,Republic of Korea Air Force - ROKAF,53,near Seoul-Seongnam Air Base (SSN),w/o
+2775,8 Jun 1982,Boeing 727-212,VASP - Viação Aérea São Paulo,137,"Serra de Pacatuba, CE",dst
+2791,28 Jun 1982,Yakovlev Yak-42,"Aeroflot, Leningrad Civil Aviation Directorate",132,"near Verbovichi, Narowla District",dst
+2795,6 Jul 1982,Ilyushin Il-62M,"Aeroflot, International Civil Aviation Directorate",90,"11,4 km N of Moskva-Sheremetyevo Airport (SVO)",dst
+2796,9 Jul 1982,Boeing 727-235,Pan American World Airways (Pan Am),153,"1,4 km E of New Orleans International Airport, LA (MSY)",dst
+2836,13 Sep 1982,McDonnell Douglas DC-10-30CF,Spantax,50,Málaga Airport (AGP),dst
+3024,11 Jul 1983,Boeing 737-2V2,TAME Ecuador,119,"1,5 km from Cuenca",dst
+3060,30 Aug 1983,Tupolev Tu-134A,"Aeroflot, Privolzhsk Civil Aviation Directorate",90,36 km SW of Alma-Ata Airport (ALA),dst
+3063,1 Sep 1983,Boeing 747-230B,Korean Air Lines - KAL,269,37 km W off Sakhalinsk [Okhotsk Sea],dst
+3070,23 Sep 1983,Boeing 737-2P6,Gulf Air,112,Mino Jebel Ali,dst
+3095,8 Nov 1983,Boeing 737-2M2,TAAG Angola Airlines,130,1 km from Lubango Airport (SDD),dst
+3106,27 Nov 1983,Boeing 747-283M,Avianca,181,12 km SE of Madrid-Barajas Airport (MAD),dst
+3108,28 Nov 1983,Fokker F-28 Fellowship 2000,Nigeria Airways,53,"3,3 km from Enugu Airport (ENU)",w/o
+3111,7 Dec 1983,McDonnell Douglas DC-9-32,Aviaco,83,Madrid-Barajas Airport (MAD),w/o
+3112,7 Dec 1983,Boeing 727-256,Iberia,83,Madrid-Barajas Airport (MAD),w/o
+3129,10 Jan 1984,Tupolev Tu-134A,Balkan Bulgarian Airlines,50,4 km from Sofia-Vrazhdebna Airport (SOF),w/o
+3269,18 Sep 1984,Douglas DC-8-55F,AECA - Aeroservicios Ecuatorianos,53,Quito-Mariscal Sucre Airport (UIO),w/o
+3287,11 Oct 1984,Tupolev Tu-154B-1,"Aeroflot, East Siberia Civil Aviation Directorate",178,Omsk Airport (OMS),dst
+3323,23 Dec 1984,Tupolev Tu-154B-2,"Aeroflot, Krasnoyarsk Civil Aviation Directorate",110,Krasnoyarsk Airport (KJA),dst
+3348,21 Jan 1985,Lockheed L-188A Electra,Galaxy Airlines,70,"3 km SE of Reno/Tahoe International Airport, NV (RNO)",dst
+3360,1 Feb 1985,Tupolev Tu-134AK,Aeroflot / Belarus,58,10 km E of Minsk-2 International Airport (MSQ),dst
+3368,19 Feb 1985,Boeing 727-256,Iberia,148,30 km SE of Bilbao Airport (BIO),dst
+3370,22 Feb 1985,Antonov An-24V,Air Mali,51,ca 3 km from Tombouctou Airport (TOM),dst
+3410,3 May 1985,Antonov An-26,Soviet Air Force,94,near Zolochiv,w/o
+3411,3 May 1985,Tupolev Tu-134A,Aeroflot / Estonia,94,near Zolochiv,dst
+3443,23 Jun 1985,Boeing 747-237B,Air-India,329,"176 km W off Cork, Ireland",dst
+3460,10 Jul 1985,Tupolev Tu-154B-2,Aeroflot / Uzbekistan,200,near Uchkuduk,dst
+3466,24 Jul 1985,Douglas DC-6B,Fuerza Aérea Colombiana,80,32 km N of Leticia,dst
+3470,2 Aug 1985,Lockheed L-1011 TriStar 1,Delta Air Lines,135,"Dallas/Fort Worth International Airport, TX (DFW)",dst
+3474,12 Aug 1985,Boeing 747SR-46,Japan Air Lines - JAL,520,"26 km SW of Ueno Village, Tano district, Gunma Prefecture",dst
+3484,22 Aug 1985,Boeing 737-236,British Airtours,55,Manchester International Airport (MAN),dst
+3491,4 Sep 1985,Antonov An-26,Bakhtar Afghan Airlines,52,18 km W of Kandahar,w/o
+3527,24 Nov 1985,Boeing 737-266,EgyptAir,60,Malta-Luqa Airport (MLA),w/o
+3538,12 Dec 1985,McDonnell Douglas DC-8-63CF,Arrow Air,256,"1 km SW of Gander Airport, NL (YQX)",dst
+3560,18 Jan 1986,Sud Aviation SE-210 Caravelle VI-N,Aerovias Guatemala,94,8 km from Flores-Santa Elena Airport (FRS),dst
+3603,31 Mar 1986,Boeing 727-264,Mexicana de Aviación,167,Las Mesas,dst
+3654,2 Jul 1986,Tupolev Tu-134AK,"Aeroflot, Komi Civil Aviation Directorate",54,Kopsa,w/o
+3677,14 Aug 1986,Lockheed C-130D-6 Hercules,Fuerza Aérea Hondureña,52,NW of Mocorón-Durzona Airstrip,w/o
+3678,16 Aug 1986,Fokker F-27 Friendship 400M,Sudan Airways,60,near Malakal,w/o
+3684,31 Aug 1986,McDonnell Douglas DC-9-32,Aeroméxico,82,"Cerritos, CA",dst
+3716,20 Oct 1986,Tupolev Tu-134A,"Aeroflot, North Kavkaz Civil Aviation Directorate",70,Kuybyshev Airport (KUF),dst
+3726,2 Nov 1986,Lockheed C-130 Hercules,Islamic Republic of Iran Air Force - IRIAF,103,11 km E of Zahedan,dst
+3744,12 Dec 1986,Tupolev Tu-134A,Aeroflot / Belarus,72,3 km NE of Berlin-Schönefeld Airport (SXF),dst
+3751,25 Dec 1986,Boeing 737-270C,Iraqi Airways,63,near Arar,w/o
+3759,3 Jan 1987,Boeing 707-379C,Varig,50,18 km NE of Abidjan-Felix Houphouet Boigny Airport (ABJ),dst
+3768,13 Jan 1987,Antonov An-12,Ethiopian Air Force,54,near Asmara International Airport (ASM),w/o
+3846,9 May 1987,Ilyushin Il-62M,LOT Polskie Linie Lotnicze,183,6 km SE of Warszawa-Okecie Airport (WAW),dst
+3865,11 Jun 1987,Antonov An-26,Bakhtar Afghan Airlines,53,near Khost,w/o
+3874,18 Jun 1987,Antonov An-26,Fuerza Aérea del Peru - FAP,50,40 km SE of Saposoa Airport (SQU),dst
+3884,26 Jun 1987,Hawker Siddeley HS-748-209 Srs. 2,Philippine Air Lines,50,19 km ESE of Baguio-Loakan Airport (BAG),dst
+3912,16 Aug 1987,McDonnell Douglas DC-9-82 (MD-82),Northwest Airlines,156,"Detroit-Metropolitan Wayne County Airport, MI (DTW)",dst
+3920,31 Aug 1987,Boeing 737-2P5,Thai Airways,83,15 km E off Phuket International Airport (HKT),dst
+3972,28 Nov 1987,Boeing 747-244B,South African Airways - SAA,159,250 km NE off Mauritius,dst
+3973,29 Nov 1987,Boeing 707-3B5C,Korean Air,115,"100 km NW off Tavoy, Myanmar [Andaman Sea]",dst
+4018,18 Jan 1988,Ilyushin Il-18D,China Southwest Airlines,108,"5,7 km NW of Chongqing Baishiyi Airport",dst
+4053,17 Mar 1988,Boeing 727-21,Avianca,143,25 km NW of Cúcuta-Camilo Daza Airport (CUC),dst
+4106,3 Jul 1988,Airbus A300B2-203,Iran Air,290,4 km SE off Qeshm Island,dst
+4148,9 Sep 1988,Tupolev Tu-134A,Hâng Không Viêtnam,76,6 km N of Bangkok-Don Muang International Airport (BKK),dst
+4184,19 Oct 1988,Boeing 737-2A8,Indian Airlines,133,"2,54 km NE of Ahmedabad Airport (AMD)",dst
+4217,11 Dec 1988,Ilyushin Il-76M,Soviet Air Force,77,15 km from Leninakan Airport (LWN),dst
+4223,21 Dec 1988,Boeing 747-121A,Pan American World Airways (Pan Am),270,Lockerbie,dst
+4254,8 Feb 1989,Boeing 707-331B,Independent Air,144,"7 km E of Santa Maria-Vila do Porto Airport, Azores (SMA)",dst
+4326,7 Jun 1989,McDonnell Douglas DC-8-62,Surinam Airways,176,3 km W of Paramaribo-Zanderij International Airport (PBM),dst
+4332,21 Jun 1989,de Havilland Canada DHC-5D Buffalo,Fuerza Aérea del Peru - FAP,59,near Tarma,w/o
+4347,19 Jul 1989,McDonnell Douglas DC-10-10,United Airlines,111,"Sioux Gateway Airport, IA (SUX)",dst
+4354,27 Jul 1989,McDonnell Douglas DC-10-30,Korean Air,79,"2,4 km E of Tripoli International Airport (TIP)",dst
+4375,25 Aug 1989,Fokker F-27 Friendship 200,Pakistan International Airlines - PIA,54,Himalaya Mountains,mis
+4380,3 Sep 1989,Ilyushin Il-62M,Cubana de Aviación,150,"0,7 km NE of Havana-José Martí International Airport (HAV)",dst
+4386,8 Sep 1989,Convair CV-580,Partnair,55,18 km N off Hirtshals [Skagerrak],dst
+4412,19 Sep 1989,McDonnell Douglas DC-10-30,Union de Transports Aériens - UTA,170,Ténéré desert,dst
+4439,18 Oct 1989,Ilyushin Il-76MD,Soviet Air Force,57,"1,5 km off Sumqayit",dst
+4442,21 Oct 1989,Boeing 727-224,TAN Honduras - Transportes Aéreos Nacionales,131,9 km S of Tegucigalpa-Toncontin Airport (TGU),dst
+4446,26 Oct 1989,Boeing 737-209,China Airlines,54,"5,5 km N of Hualien Airport (HUN)",w/o
+4465,27 Nov 1989,Boeing 727-21,Avianca,107,16 km SW of Bogotá-Eldorado Airport (BOG),dst
+4519,25 Jan 1990,Boeing 707-321B,Avianca,73,"Cove Neck, NY",dst
+4533,14 Feb 1990,Airbus A320-231,Indian Airlines,92,"0,7 km W of Bangalore-Hindustan Airport (BLR)",dst
+4643,10 Aug 1990,Antonov An-12,Democratic Republic of Afghanistan Air Force - DRAAF,83,near Shindand,dst
+4684,2 Oct 1990,Boeing 757-21B,China Southern Airlines,128,Guangzhou-Baiyun Airport (CAN),w/o
+4685,2 Oct 1990,Boeing 737-247,Xiamen Airlines,128,Guangzhou-Baiyun Airport (CAN),dst
+4768,5 Feb 1991,Lockheed C-130H Hercules,Elleniki Polemikí Aeroporía,63,24 km WSW of Volos-Néa Anchialos Airport (VOL),dst
+4819,21 Mar 1991,Lockheed C-130H Hercules,Royal Saudi Air Force - RSAF,98,near Rash Mishab,w/o
+4854,26 May 1991,Boeing 767-3Z9ER,Lauda Air,223,"5,6 km NNE of Phu Toey",dst
+4886,11 Jul 1991,McDonnell Douglas DC-8-61,Nigeria Airways,261,"2,8 km S of Jeddah-King Abdulaziz International Airport (JED)",dst
+4897,16 Aug 1991,Boeing 737-2A8 Advanced,Indian Airlines,69,38 km SW of Imphal Municipal Airport (IMF),dst
+4939,5 Oct 1991,Lockheed C-130H-30 Hercules,Tentara Nasional Indonesia-AU (Air Force),135,3 km S of Jakarta-Halim Perdana Kusuma Airport (HLP),dst
+4955,7 Nov 1991,Yakovlev Yak-40,Yugavia,51,23 km WNW of Makhachkala Airport (MCX),dst
+5012,20 Jan 1992,Airbus A320-111,Air Inter,87,"19,5 km SW of Strasbourg-Entzheim Airport (SXB)",dst
+5081,16 Apr 1992,de Havilland Canada DHC-5D Buffalo,Kenya Air Force - KAF,52,"ca 1,7 km SW of Nairobi-Moi Air Base",w/o
+5126,14 Jul 1992,Antonov An-12,Yemen Air Force,58,100 km E of Sana'a,w/o
+5133,24 Jul 1992,Vickers 816 Viscount,Mandala Airlines,70,ca 15 km W of Ambon-Pattimura Airport (AMQ),dst
+5142,31 Jul 1992,Yakovlev Yak-42D,China General Aviation Corp.,107,Nanking Airport (NKG),dst
+5143,31 Jul 1992,Airbus A310-304,Thai Airways International,113,40 km N of Kathmandu-Tribhuvan Airport (KTM),dst
+5167,27 Aug 1992,Tupolev Tu-134A,"Aeroflot, Central Region Civil Aviation Directorate",84,3 km SE of Ivanovo Airport (IWA),dst
+5195,26 Sep 1992,Lockheed C-130H Hercules,Nigerian Air Force - NAF,159,ca 7 km SSW of Lagos-Murtala Muhammed International Airport (LOS),dst
+5197,28 Sep 1992,Airbus A300B4-203,Pakistan International Airlines - PIA,167,18 km S of Kathmandu-Tribhuvan Airport (KTM),dst
+5234,24 Nov 1992,Boeing 737-3Y0,China Southern Airlines,141,20 km S of Guilin Airport (KWL),dst
+5260,21 Dec 1992,McDonnell Douglas DC-10-30CF,Martinair Holland,56,Faro Airport (FAO),w/o
+5261,22 Dec 1992,Boeing 727-2L5,Libyan Arab Airlines,157,9 km E of Tripoli International Airport (TIP),dst
+5292,8 Feb 1993,Tupolev Tu-154M,Iran Airtour,133,15 km from Tehran-Mehrabad Airport (THR),dst
+5308,5 Mar 1993,Fokker 100,Palair Macedonian Airlines,83,Skopje Airport (SKP),dst
+5346,26 Apr 1993,Boeing 737-2A8,Indian Airlines,55,3 km NE of Aurangabad Airport (IXU),w/o
+5350,27 Apr 1993,Antonov An-32,Democratic Republic of Afghanistan Air Force - DRAAF,76,Tashqurghan,dst
+5361,19 May 1993,Boeing 727-46,SAM Colombia,132,60 km NW of Medellín,dst
+5405,23 Jul 1993,British Aerospace BAe-146-300,China Northwest Airlines,56,Yinchuan Airport (INC),w/o
+5408,26 Jul 1993,Boeing 737-5L9,Asiana Airlines,68,"7,5 km SW of Mokpo Airport (MPK)",dst
+5432,28 Aug 1993,Yakovlev Yak-40,Tajikistan Airlines,82,near Khorog,dst
+5457,22 Sep 1993,Tupolev Tu-154B,Orbi Georgian Airways,108,Sukhumi-Babusheri Airport (SUI),dst
+5502,20 Nov 1993,Yakovlev Yak-42D,Avioimpex,116,2 km E of Ohrid Airport (OHD),dst
+5555,3 Jan 1994,Tupolev Tu-154M,Baikal Airlines,125,near Mamony,dst
+5622,23 Mar 1994,Airbus A310-304,Aeroflot Russian International Airlines,75,near Mezhduretshensk,dst
+5638,26 Apr 1994,Airbus A300B4-622R,China Airlines,264,Nagoya-Komaki International Airport (NGO),dst
+5659,6 Jun 1994,Tupolev Tu-154M,China Northwest Airlines,160,29 km SE of Xian-Xianyang International Airport (XIY),dst
+5674,1 Jul 1994,Fokker F-28 Fellowship 4000,Air Mauritanie,80,Tidjikja Airport (TIY),dst
+5719,8 Sep 1994,Boeing 737-3B7,USAir,132,"near Aliquippa, PA",dst
+5743,12 Oct 1994,Fokker F-28 Fellowship 1000,Iran Aseman Airlines,66,near Natanz,dst
+5754,31 Oct 1994,ATR 72-212,American Eagle,68,"near Roselawn, IN",dst
+5806,29 Dec 1994,Boeing 737-4Y0,THY Turkish Airlines,57,4 km from Van Airport (VAN),w/o
+5819,10 Jan 1995,Douglas DC-9-14,Intercontinental de Aviación,51,near Maria La Baja,dst
+5880,31 Mar 1995,Airbus A310-324,Tarom,60,3 km N of Bucharest-Otopeni International Airport (OTP),dst
+5909,29 Apr 1995,British Aerospace BAe-748-357 Srs. 2B SCD,Sri Lanka Air Force,52,near Jaffna-Palaly AFB (JAF),w/o
+5978,9 Aug 1995,Boeing 737-2H6,Aviateca,65,24 km NE of San Salvador,dst
+6005,13 Sep 1995,Antonov An-32B,Sri Lanka Air Force,75,4 km N off Colombo,dst
+6038,8 Nov 1995,Fokker F-27 Friendship 400M,Lineas Aéreas del Estado - LADE,53,"30 km SE of Villa Dolores, CD",w/o
+6045,22 Nov 1995,Antonov An-32B,Sri Lanka Air Force,62,13 km off Jaffna,dst
+6054,3 Dec 1995,Boeing 737-2K9,Cameroon Airlines,71,"1,7 km S of Douala Airport (DLA)",dst
+6056,5 Dec 1995,Tupolev Tu-134B-3,Azerbaijan Airlines,52,"3,8 km from Nakhichevan Airport (NAJ)",w/o
+6060,7 Dec 1995,Tupolev Tu-154B,Khabarovsk United Air,98,50 km W of Grossevichi,dst
+6065,18 Dec 1995,Lockheed L-188C Electra,Trans Service Airlift,141,"near Cahungula, Lunda Norte",dst
+6066,20 Dec 1995,Boeing 757-223,American Airlines,159,Buga,dst
+6088,8 Jan 1996,Antonov An-32B,African Air,237,Kinshasa-N'Dolo Airport (NLO),w/o
+6103,6 Feb 1996,Boeing 757-225,Alas Nacionales,189,"26 km NE off Puerto Plata, Dominican Republic",dst
+6115,26 Feb 1996,Lockheed C-130H Hercules,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),91,near Jabal Awliya,dst
+6118,29 Feb 1996,Boeing 737-222,Faucett Perú,123,"6,3 km W of Arequipa-Rodriguez Ballon Airport (AQP)",dst
+6159,3 May 1996,Antonov An-24RV,Federal Airlines,53,near Haj Yousif,w/o
+6165,11 May 1996,McDonnell Douglas DC-9-32,ValuJet Airlines,110,"Everglades, FL",dst
+6212,17 Jul 1996,Boeing 747-131,Trans World Airlines - TWA,230,"13 km S off East Moriches, NY",dst
+6246,29 Aug 1996,Tupolev Tu-154M,Vnukovo Airlines,141,"14,3 km from Svalbard-Longyearbyen Airport (LYR)",dst
+6260,2 Oct 1996,Boeing 757-23A,AeroPeru,70,"89 km NW off Lima, Peru",dst
+6278,31 Oct 1996,Fokker 100,TAM Transportes Aéreos Regionais,99,"1,5 km S of São Paulo-Congonhas Airport, SP (CGH)",dst
+6283,7 Nov 1996,Boeing 727-231,ADC Airlines,144,"7,5 km W of Ejirin",dst
+6284,12 Nov 1996,Ilyushin Il-76TD,Kazakhstan Airlines,339,5 km from Charkhi Dadri,dst
+6285,12 Nov 1996,Boeing 747-168B,Saudi Arabian Airlines,339,5 km from Charki Dadri,dst
+6296,23 Nov 1996,Boeing 767-260ER,Ethiopian Airlines,125,"0,5 km N off Mitsamiouli, Grande Comore",dst
+6383,13 Mar 1997,Lockheed C-130 Hercules,Islamic Republic of Iran Air Force - IRIAF,86,24 km from Mashhad,dst
+6386,18 Mar 1997,Antonov An-24RV,Stavropolskaya Aktsionernaya Avia,50,1 km E of Cherkessk,dst
+6466,6 Aug 1997,Boeing 747-3B5,Korean Air,228,"4,8 km SW of Guam-Agana International Airport (GUM)",dst
+6484,3 Sep 1997,Tupolev Tu-134B-3,Vietnam Airlines,65,Phnom Penh-Pochentong Airport (PNH),dst
+6498,26 Sep 1997,Airbus A300B4-220,Garuda Indonesia Airways,234,25 km SSW of Medan-Polonia Airport (MES),dst
+6505,10 Oct 1997,McDonnell Douglas DC-9-32,Austral Lineas Aéreas,74,21 km E of Nuevo Berlin,dst
+6534,6 Dec 1997,Antonov An-124-100,Russian Air Force,68,"1,6 km SE of Irkutsk-2 Airport",dst
+6543,15 Dec 1997,Tupolev Tu-154B-1,Tajikistan Airlines,85,13 km E of Sharjah Airport (SHJ),dst
+6546,17 Dec 1997,Yakovlev Yak-42,AeroSvit Airlines,70,72 km SW of Thessaloniki,dst
+6548,19 Dec 1997,Boeing 737-36N,Silkair,104,56 km N of Palembang,dst
+6577,13 Jan 1998,Antonov An-32,Islamic Emirate of Afghanistan Air Force - IEAAF,51,Khojak Pass,w/o
+6591,2 Feb 1998,McDonnell Douglas DC-9-32,Cebu Pacific Air,104,45 km NE of Cagayan de Oro-Lumbia Airport (CGY),dst
+6602,16 Feb 1998,Airbus A300B4-622R,China Airlines,203,Taipei-Chiang Kai Shek International Airport (TPE),dst
+6630,20 Apr 1998,Boeing 727-230,TAME Ecuador,53,10 km SW of Bogotá-Eldorado Airport (BOG),dst
+6635,5 May 1998,Boeing 737-282 Advanced,Occidental Petroleum,75,3 km from Andoas,w/o
+6713,29 Aug 1998,Tupolev Tu-154M,Cubana de Aviación,80,Quito-Mariscal Sucre Airport (UIO),dst
+6717,2 Sep 1998,McDonnell Douglas MD-11,Swissair,229,"9 km SW off Peggy's Cove, NS",dst
+6743,29 Sep 1998,Antonov An-24RV,LionAir,55,off Mannar,dst
+6780,11 Dec 1998,Airbus A310-204,Thai Airways International,101,"0,7 km S of Surat Thani Airport (URT)",dst
+6836,24 Feb 1999,Tupolev Tu-154M,China Southwest Airlines,61,Rui'an,dst
+6892,3 Jun 1999,Antonov An-32,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),50,80 km E of Khartoum,w/o
+6945,31 Aug 1999,Boeing 737-204C,LAPA - Líneas Aéreas Privadas Argentinas,66,"Buenos Aires-Jorge Newbery Airport, BA (AEP)",dst
+6988,31 Oct 1999,Boeing 767-366ER,EgyptAir,217,"100 km S off Nantucket Island, MA, USA",dst
+7047,30 Jan 2000,Airbus A310-304,Kenya Airways,169,"2,8 km S off Abidjan-Felix Houphouet Boigny Airport (ABJ)",dst
+7049,31 Jan 2000,McDonnell Douglas DC-9-83 (MD-83),Alaska Airlines,88,"4,5 km N off Anacapa Island, CA",dst
+7101,19 Apr 2000,Boeing 737-2H4,Air Philippines,131,8 km NE of Davao City-Francisco Bangoy International Airport (DVO),dst
+7155,17 Jul 2000,Boeing 737-2A8 Advanced,Alliance Air,60,2 km SW of Patna Airport (PAT),w/o
+7160,25 Jul 2000,Aérospatiale / BAC Concorde 101,Air France,113,Gonesse,dst
+7181,23 Aug 2000,Airbus A320-212,Gulf Air,143,2 km N off Bahrain International Airport (BAH),dst
+7222,25 Oct 2000,Ilyushin Il-18D,Russian Air Force,84,18 km E of Batumi-Chorokh Airport (BUS),dst
+7225,31 Oct 2000,Boeing 747-412,Singapore Airlines,83,Taipei-Chiang Kai Shek Airport (TPE),dst
+7236,15 Nov 2000,Antonov An-24RV,ASA Pesada,57,5 km E of Luanda-4 de Fevereiro Airport (LAD),dst
+7357,4 Jul 2001,Tupolev Tu-154M,Vladivostokavia,145,near Burdakovka,dst
+7396,11 Sep 2001,Boeing 757-223,American Airlines,189,"Washington, DC",dst
+7398,11 Sep 2001,Boeing 767-222,United Airlines,965,"New York, NY",dst
+7399,11 Sep 2001,Boeing 767-223ER,American Airlines,1692,"New York, NY",dst
+7415,4 Oct 2001,Tupolev Tu-154M,Sibir Airlines,78,"184 km off Adler, Russia [Black Sea]",dst
+7417,8 Oct 2001,Cessna 525A CitationJet CJ2,H. Enschmann,114,Milano-Linate Airport (LIN),w/o
+7418,8 Oct 2001,McDonnell Douglas DC-9-87 (MD-87),Scandinavian Airlines System - SAS,119,Milano-Linate Airport (LIN),dst
+7444,12 Nov 2001,Airbus A300B4-605R,American Airlines,265,"Belle Harbor, NY",dst
+7500,28 Jan 2002,Boeing 727-134,TAME Ecuador,94,27 km NW of Ipiales,dst
+7511,12 Feb 2002,Tupolev Tu-154M,Iran Airtour,119,near Sarab-e Do Rah,dst
+7552,15 Apr 2002,Boeing 767-2J6ER,Air China,129,"4,6 km N of Pusan-Kimhae Airport (PUS)",dst
+7564,4 May 2002,BAC One-Eleven 525FT,EAS Airlines,103,3 km SW of Kano-Aminu Kano International Airport (KAN),dst
+7565,7 May 2002,McDonnell Douglas DC-9-82 (MD-82),China Northern Airlines,112,20 km E off Dalian,dst
+7579,25 May 2002,Boeing 747-209B,China Airlines,225,"45 km NE off Penghu islands, Taiwan [Taiwan Strait]",dst
+7600,1 Jul 2002,Boeing 757-23APF,DHL Aviation,71,Überlingen,dst
+7601,1 Jul 2002,Tupolev Tu-154M,Bashkirskie Avialinii,71,Überlingen,dst
+7713,8 Jan 2003,Avro RJ100,THY Turkish Airlines,75,"0,9 km S of Diyarbakir Airport (DIY)",dst
+7743,19 Feb 2003,Ilyushin Il-76MD,Iranian Revolutionary Guard Corps Air Force - IRGCAF,275,35 km SE from Kerman,dst
+7751,6 Mar 2003,Boeing 737-2T4,Air Algérie,102,Tamanrasset Airport (TMR),dst
+7812,26 May 2003,Yakovlev Yak-42D,Ukrainian-Mediterranean Airlines,75,"3,5 km E of Maçka",dst
+7838,8 Jul 2003,Boeing 737-2J8C,Sudan Airways,116,5 km E of Port Sudan,dst
+7926,25 Dec 2003,Boeing 727-223,Union des Transports Africains de Guinée,141,Cotonou Airport (COO),dst
+7931,3 Jan 2004,Boeing 737-3Q8,Flash Airlines,148,15 km S off Sharm el Sheikh,dst
+8114,21 Nov 2004,Canadair CL-600-2B19 Regional Jet CRJ-200LR,China Yunnan Airlines,55,near Baotou Airport (BAV),dst
+8164,3 Feb 2005,Boeing 737-242 Advanced,Kam Air,105,32 km ESE of Kabul Airport (KBL),dst
+8256,16 Jul 2005,Antonov An-24B,Equatorial Express Airlines,60,near Baney,w/o
+8272,14 Aug 2005,Boeing 737-31S,Helios Airways,121,2 km from Grammatikos,dst
+8274,16 Aug 2005,McDonnell Douglas DC-9-82 (MD-82),West Caribbean Airways,160,near Machiques,dst
+8287,5 Sep 2005,Boeing 737-230,Mandala Airlines,149,Medan-Polonia Airport (MES),dst
+8315,22 Oct 2005,Boeing 737-2L9,Bellview Airlines,117,"Lisa Village, Ogun State",dst
+8349,6 Dec 2005,Lockheed C-130E Hercules,Islamic Republic of Iran Air Force - IRIAF,106,Tehran,dst
+8353,10 Dec 2005,McDonnell Douglas DC-9-32,Sosoliso Airlines,108,Port Harcourt Airport (PHC),dst
+8430,3 May 2006,Airbus A320-211,Armavia,113,6 km SW off Adler/Sochi Airport (AER),dst
+8480,9 Jul 2006,Airbus A310-324,S7 Airlines,125,Irkutsk Airport (IKT),dst
+8510,22 Aug 2006,Tupolev Tu-154M,Pulkovo Aviation Enterprise,170,45 km NW of Donetsk,dst
+8527,29 Sep 2006,Embraer EMB-135BJ Legacy 600,ExcelAire,154,"Novo Progresso-Cachimbo Air Base, PA (SBCC)",min
+8528,29 Sep 2006,Boeing 737-8EH,Gol Transportes Aéreos,154,"30 km from Peixoto Azevedo, MT",dst
+8542,29 Oct 2006,Boeing 737-2B7,ADC Airlines,96,Abuja International Airport (ABV),dst
+8592,1 Jan 2007,Boeing 737-4Q8,AdamAir,102,85 km W off Pambauang,dst
+8662,5 May 2007,Boeing 737-8AL,Kenya Airways,114,"5,5 km SE of Douala Airport (DLA)",dst
+8706,17 Jul 2007,Airbus A320-233,TAM Linhas Aéreas,199,"São Paulo-Congonhas Airport, SP (CGH)",dst
+8753,16 Sep 2007,McDonnell Douglas DC-9-82 (MD-82),One-Two-Go Airlines,90,Phuket International Airport (HKT),dst
+8795,30 Nov 2007,McDonnell Douglas DC-9-83 (MD-83),Atlasjet Airlines,57,12 km WNW of Isparta Airport (ISE),dst
+8969,20 Aug 2008,McDonnell Douglas DC-9-82 (MD-82),Spanair,154,Madrid-Barajas Airport (MAD),dst
+8974,24 Aug 2008,Boeing 737-219,Itek Air,65,"7,8 km WNW of Bishkek-Manas International Airport (FRU)",dst
+8989,14 Sep 2008,Boeing 737-505,Aeroflot-Nord,88,"11,5 km NE of Perm Airport (PEE)",dst
+9068,12 Feb 2009,de Havilland Canada DHC-8-402Q Dash 8,Colgan Air,50,"10 km NE of Buffalo Niagara International Airport, NY (BUF)",dst
+9118,20 May 2009,Lockheed L-100-30 Hercules,Tentara Nasional Indonesia-AU (Air Force),99,near Madiun-Iswahyudi Airport,dst
+9123,1 Jun 2009,Airbus A330-203,Air France,228,c 160km NNW off São Pedro and São Paulo Archipelago,dst
+9143,30 Jun 2009,Airbus A310-324,Yemenia Airways,152,6 km NW off Mitsamiouli,dst
+9148,15 Jul 2009,Tupolev Tu-154M,Caspian Airlines,168,12 km S of Qazvin,dst
+9260,25 Jan 2010,Boeing 737-8AS (WL),Ethiopian Airlines,90,11 km SW off Beirut International Airport (BEY),dst
+9298,10 Apr 2010,Tupolev Tu-154M,Polish Air Force,96,ca 1 km E of Smolensk Air Base,dst
+9315,12 May 2010,Airbus A330-202,Afriqiyah Airways,103,"ca 0,9 km W of Tripoli International Airport (TIP)",dst
+9322,22 May 2010,Boeing 737-8HG (WL),Air India Express,158,Mangalore-Bajpe Airport (IXE),dst
+9358,28 Jul 2010,Airbus A321-231,Airblue,152,15 km NNW of Islamabad-Benazir Bhutto International Airport (ISB),dst
+9402,4 Nov 2010,ATR 72-212,Aerocaribbean,68,"near Guasimal, Sancti Spiritus Province",dst
+9439,9 Jan 2011,Boeing 727-286,Iran Air,78,8 km from Urmia (Orumiyeh) Airport (OMH),dst
+9528,8 Jul 2011,Boeing 727-22 (WL),Hewa Bora Airways,77,Kisangani-Bangoka International Airport (FKI),dst
+9541,26 Jul 2011,Lockheed C-130H Hercules,Royal Moroccan Air Force,80,10 km E of Goulimime Airport (GLN),dst
+9673,20 Apr 2012,Boeing 737-236A,Bhoja Airlines,127,"4,2 km SE of Islamabad-Benazir Bhutto International Airport (ISB)",dst
+9702,3 Jun 2012,McDonnell Douglas DC-9-83 (MD-83),Dana Air,159,"9,3 km N of Lagos-Murtala Muhammed International Airport (LOS)",dst
+9983,17 Nov 2013,Boeing 737-53A,Tatarstan Airlines,50,Kazan International Airport (KZN),dst
+10041,11 Feb 2014,Lockheed C-130H-30 Hercules,Al Quwwat al-Jawwiya al-Jaza'eriya,76,near Aïn Kercha,dst
+10066,8 Mar 2014,Boeing 777-2H6ER,Malaysia Airlines,239,within Indian Ocean,dst
+10143,17 Jul 2014,Boeing 777-2H6ER,Malaysia Airlines,298,Hrabove,dst
+10150,24 Jul 2014,McDonnell Douglas DC-9-83 (MD-83),Air Algérie,116,80 km NW of Gossi,dst
+10241,28 Dec 2014,Airbus A320-216,Indonesia AirAsia,162,Karimata Strait,dst
+10293,24 Mar 2015,Airbus A320-211,Germanwings,150,Prads-Haute-Bléone,dst
+10354,30 Jun 2015,Lockheed C-130B Hercules,Tentara Nasional Indonesia-AU (Air Force),139,"4,7 km SW of Medan-Soewondo Air Force Base (MES)",dst
+10382,16 Aug 2015,ATR 42-300,Trigana Air Service,54,"16,7 km NW of Oksibil Airport (OKL)",dst
+10432,31 Oct 2015,Airbus A321-231,Metrojet,224,"ca 50 km SE of Hasna, North Sinai",dst
+10514,19 Mar 2016,Boeing 737-8KN (WL),flydubai,62,Rostov Airport (ROV),dst
+10550,19 May 2016,Airbus A320-232,EgyptAir,66,ca 200 km N of Egyptian coast,dst
+10649,28 Nov 2016,Avro RJ85,LaMia,71,18 km S of Rionegro/Medellín-José María Córdova Airport (MDE),dst
+10673,25 Dec 2016,Tupolev Tu-154B-2,Russian Air Force,92,"1,6 km SW off Adler",dst
+10761,7 Jun 2017,Shaanxi Y-8F-200W,Tatmadaw Lei (Myanmar Air Force),122,off Dawei,dst
+10899,11 Feb 2018,Antonov An-148-100B,Saratov Airlines,71,"near Stepanovskoye, Ramenskoye district",dst
+10901,18 Feb 2018,ATR 72-212,Iran Aseman Airlines,66,15 km NE of Yasuj Airport (YES),dst
+10911,12 Mar 2018,de Havilland Canada DHC-8-402Q Dash 8,US-Bangla Airlines,51,Kathmandu-Tribhuvan Airport (KTM),dst
+10940,11 Apr 2018,Ilyushin Il-76TD,Al Quwwat al-Jawwiya al-Jaza'eriya,257,near Boufarik Air Base,dst
+10976,18 May 2018,Boeing 737-201 Advanced,Cubana de Aviación,112,1 km E of Havana-José Martí International Airport (HAV),dst
+11079,29 Oct 2018,Boeing 737 MAX 8,Lion Air,189,15 km N off Tanjung Bungin,dst
+11155,10 Mar 2019,Boeing 737 MAX 8,Ethiopian Airlines,157,50 km ESE of Addis Ababa-Bole Airport (ADD),dst
+11367,8 Jan 2020,Boeing 737-8KV (WL),Ukraine International Airlines,176,near Sabashahr,dst
+11453,22 May 2020,Airbus A320-214,Pakistan International Airlines - PIA,98,"1,4 km E of Karachi-Jinnah International Airport (KHI)",dst
+11566,9 Jan 2021,Boeing 737-524 (WL),Sriwijaya Air,62,19 km NE of Jakarta-Soekarno-Hatta International Airport (CGK),dst
+11649,4 Jul 2021,Lockheed C-130H Hercules,Hukbong Himpapawid ng Pilipinas (Philippine Air Force),53,"Patikul, Sulu",dst
+11793,21 Mar 2022,Boeing 737-89P (WL),China Eastern Airlines,132,"20 km SW of Wuzhou, Tengxian County",dst
