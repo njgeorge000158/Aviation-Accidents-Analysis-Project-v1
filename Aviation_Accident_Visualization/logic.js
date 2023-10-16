@@ -77,7 +77,7 @@ for (let i = 0; i < myData.length; i++) {
     //radius: Math.sqrt(aviation_accidents[i].fat) * 20000
     radius: Math.sqrt(myData[i].fat) * 20000
   //}).bindPopup(`<h1>${aviation_accidents[i].accident_date}</h1> <hr> <h3>Carrier Type: ${aviation_accidents[i].type}</h3><hr> <h3>Operator: ${aviation_accidents[i].operator}</h3>`).addTo(myMap);
-  }).bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`).addTo(myMap);
+  }).bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`).addTo(myMap);
 }
 });
 
