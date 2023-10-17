@@ -26,7 +26,7 @@ for (let i = 0; i < myData.length; i++) {
   if (location) {
 
     markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
-    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
+    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
   }
 
 }
