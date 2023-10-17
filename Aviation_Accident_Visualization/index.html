@@ -27,11 +27,18 @@
 
 <body>
   <!-- The div where we'll insert our map -->
+  <input type="text" id="yearInput">
+    <button type="button" id="YearBtn">Enter Year</button>
+
+  <div class="well">
+      <h5>Select Country:</h5>
+      <select id="selCountry" onchange="countryChange(this.value)"></select>
+  </div>  
+
   <div id="map"></div>
-  <input type="text" id="countryInput">
-    <button type="button" id="countryBtn">Enter Country</button>
+  
   <!-- JavaScript files -->
-  //<script type="text/javascript" src="data1.js"></script>
+  
   <script type="text/javascript" src="logic.js"></script>
  
     
