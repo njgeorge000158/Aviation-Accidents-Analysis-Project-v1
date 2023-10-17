@@ -1,5 +1,5 @@
-//Updates using localhost flask api example from rajib.
-let link = "http://localhost:8000/all";
+//Updates using flask 
+let link = "http://127.0.0.1:8000/countrysearch?country=";
 
 d3.json(link).then(function(data) {
   let myData = data
@@ -33,4 +33,54 @@ for (let i = 0; i < myData.length; i++) {
 
 // Add our marker cluster layer to the map.
 myMap.addLayer(markers);}
-,);
+);
+
+
+
+let countrylink = "http://127.0.0.1:8000/countrysearch?country=";
+
+// Initialize function for dropdown menu
+function init() {
+    
+  let dropdownMenu = d3.select("#selDataset");
+  
+  // Retrieve JSON data 
+
+  d3.json(countrylink).then((data) => {
+  
+      
+  //Itterate through "country" in data
+      let countries= data.country;
+  
+      countries.forEach((name) =>{
+
+          console.log(name)
+          
+          // Add value of the dropdown meanu option to a variable 
+          dropdownMenu.append("option").text(name).property("value", name);
+      }); 
+
+      let initialCountry = countries[0];
+
+      console.log(initialCountry);
+  });
+};
+
+function optionChanged (selectedCountry) {
+
+  let filterData = data.filter(item => item.country ==selectedCountry);
+
+  markers.clearLayers();
+
+  filterData.forEach(item => {
+    markers.addLayer(
+    L.Marker([item.LAT, item.LNG]).bindPopup(
+      `<h1>${item.accident_date}</h1> <hr> <h3>Carrier Type: ${item.type}</h3><hr> <h3>Operator: ${item.operator}</h3>`
+      )
+      );
+  });
+
+  myMap.addLayer(markers);}
+
+
+init();
