@@ -5,8 +5,8 @@ d3.json(link).then(function(data) {
   let myData = data
 
   let myMap = L.map("map", {
-    center: [31.534665,  -37.136879],
-    zoom: 2.5
+    center: [10.534665,  -8.136879],
+    zoom: 2.6
   });
 
 //Tile layer

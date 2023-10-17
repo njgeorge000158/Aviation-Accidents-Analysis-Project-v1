@@ -1,13 +1,58 @@
 //Updates using flask 
-let link = "http://127.0.0.1:8000/countrysearch?country=";
+let link = "http://127.0.0.1:8000/all";
+let myMap = L.map("map", {
+  center: [15.5994, -28.6731],
+  zoom: 3
+});
 
-d3.json(link).then(function(data) {
-  let myData = data
+d3.json("http://127.0.0.1:8000/alluniquecountry" , function (data) {
+      console.log(data);
+        // Create array to hold all names (all ID names)
+        var countries = data.map(x=>x.country)
+        // Append an option in the dropdown
+        countries.forEach(function(country) {
+            d3.select('#selCountry')
+                .append('option')
+                .text(country)
+            });
+          });
 
-  let myMap = L.map("map", {
+initial_graph(link)
+
+$(document).ready(function(){
+  let newlink = ""
+  // Get value on button click and show alert
+  $("#YearBtn").click(function(){
+      var str = $("#yearInput").val();
+      //console.log("str" + len(str));
+      if (str.length != 4) 
+       {
+        newlink = "http://127.0.0.1:8000/all" 
+       }
+      else
+      {
+        newlink = "http://127.0.0.1:8000/year?year=" + str;
+      } 
+      
+      //console.log(newlink)
+      display_graph(newlink)
+      //alert(str);
+  });
+});
+
+function countryChange (countryname)
+{
+  let countrylink = "http://127.0.0.1:8000/countrysearch?country=" + countryname ; 
+  myMap.off();
+  myMap.remove();  
+  myMap = L.map("map", {
     center: [15.5994, -28.6731],
     zoom: 3
   });
+
+d3.json(countrylink).then(function(data) {
+  
+  let myData = data
 
 //Tile layer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -26,7 +71,7 @@ for (let i = 0; i < myData.length; i++) {
   if (location) {
 
     markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
-    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
+    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3><h3>Number of Fatalities: ${myData[i].fat}</h3>`));
   }
 
 }
@@ -35,52 +80,12 @@ for (let i = 0; i < myData.length; i++) {
 myMap.addLayer(markers);}
 );
 
-
-
-let countrylink = "http://127.0.0.1:8000/countrysearch?country=";
-
-// Initialize function for dropdown menu
-function init() {
-    
-  let dropdownMenu = d3.select("#selDataset");
-  
-  // Retrieve JSON data 
-
-  d3.json(countrylink).then((data) => {
-  
-      
-  //Itterate through "country" in data
-      let countries= data.country;
-  
-      countries.forEach((name) =>{
-
-          console.log(name)
-          
-          // Add value of the dropdown meanu option to a variable 
-          dropdownMenu.append("option").text(name).property("value", name);
-      }); 
-
-      let initialCountry = countries[0];
-
-      console.log(initialCountry);
+function display_graph(link)
+{
+  myMap.off();
+  myMap.remove();  
+  myMap = L.map("map", {
+    center: [15.5994, -28.6731],
+    zoom: 3
   });
-};
-
-function optionChanged (selectedCountry) {
-
-  let filterData = data.filter(item => item.country ==selectedCountry);
-
-  markers.clearLayers();
-
-  filterData.forEach(item => {
-    markers.addLayer(
-    L.Marker([item.LAT, item.LNG]).bindPopup(
-      `<h1>${item.accident_date}</h1> <hr> <h3>Carrier Type: ${item.type}</h3><hr> <h3>Operator: ${item.operator}</h3>`
-      )
-      );
-  });
-
-  myMap.addLayer(markers);}
-
-
-init();
+}}
