@@ -74,18 +74,18 @@ for (let i = 0; i < myData.length; i++) {
   let color = "";
   //if (aviation_accidents[i].fat > 200) {
   if (myData[i].fat > 200) {
-    color = "yellow";
+    color = "#c1f0f0";
   }
   //else if (aviation_accidents[i].fat > 150) {
   else if (myData[i].fat > 150) {  
-    color = "blue";
+    color = "#e67300";
   }
   //else if (aviation_accidents[i].fat > 120) {
   else if (myData[i].fat > 120) {
-    color = "green";
+    color = "#ff4d4d";
   }
   else {
-    color = "violet";
+    color = "black";
   }
 
   // Add circles to the map.
@@ -136,25 +136,25 @@ for (let i = 0; i < myData.length; i++) {
   let color = "";
   //if (aviation_accidents[i].fat > 200) {
   if (myData[i].fat > 200) {
-    color = "yellow";
+    color = "#800000";
   }
   //else if (aviation_accidents[i].fat > 150) {
   else if (myData[i].fat > 150) {  
-    color = "blue";
+    color = "#e67300";
   }
   //else if (aviation_accidents[i].fat > 120) {
   else if (myData[i].fat > 120) {
-    color = "green";
+    color = "#c1f0f0";
   }
   else {
-    color = "violet";
+    color = "black";
   }
 
   // Add circles to the map.
   //L.circle(([aviation_accidents[i].LAT,aviation_accidents[i].LNG]), {
   L.circle(([myData[i].LAT,myData[i].LNG]), {
     fillOpacity: 0.75,
-    color: "white",
+    color: "#000066",
     fillColor: color,
     // Adjust the radius.
     //radius: Math.sqrt(aviation_accidents[i].fat) * 20000
@@ -193,25 +193,25 @@ for (let i = 0; i < myData.length; i++) {
   let color = "";
   //if (aviation_accidents[i].fat > 200) {
   if (myData[i].fat > 200) {
-    color = "yellow";
+    color = "#800000";
   }
   //else if (aviation_accidents[i].fat > 150) {
   else if (myData[i].fat > 150) {  
-    color = "blue";
+    color = "#e67300";
   }
   //else if (aviation_accidents[i].fat > 120) {
   else if (myData[i].fat > 120) {
-    color = "green";
+    color = "#c1f0f0";
   }
   else {
-    color = "violet";
+    color = "black";
   }
 
   // Add circles to the map.
   //L.circle(([aviation_accidents[i].LAT,aviation_accidents[i].LNG]), {
   L.circle(([myData[i].LAT,myData[i].LNG]), {
     fillOpacity: 0.75,
-    color: "white",
+    color: "#000066",
     fillColor: color,
     // Adjust the radius.
     //radius: Math.sqrt(aviation_accidents[i].fat) * 20000

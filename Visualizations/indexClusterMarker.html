@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Aviation Crashes Visualizations</title>
+    <title>Aviation Crashes MarkerCluster</title>
     
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" 
@@ -15,11 +15,7 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" 
     crossorigin=""></script>
 
-    <!-- Leaflet heatmap plugin-->
-    <!-- <script type="text/javascript" src="static/js/leaflet-heat.js"></script> -->
-    <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
-
-       <!-- Import CSS file -->
+    <!-- Import CSS file -->
     <link rel="stylesheet" type= "text/css" href="./static/css/mapping_css.css">
     
     <!-- D3 library -->
@@ -41,44 +37,34 @@
   <body>
 
     <!-- The div where we'll insert our map -->
+    <input type="text" id="yearInput">
+      <button type="button" id="YearBtn">Enter Year</button>
+
+    <div class="well">
+      <h5>Select Country:</h5>
+      <select id="selCountry" onchange="countryChange(this.value)"></select>
+    </div>  
+    
+    <input type="text" id="operatorInput">
+    <button type="button" id="operatorBtn">Enter Operator</button>
+
+    <div class="well">
+    <h5>Select Operator:</h5>
+    <select id="seloperator" onchange="operatorChange(this.value)"></select>
+    </div>  
+    
+    
+    
     <div id="map"></div>
 
     <select id="selDataset" onChange="optionChanged(this.value)"></select>
 
-    <!-- <div id = "input-container">
-      <input type = "text" id = "timeInput" placeholder = "http://127.0.0.1:8000/yearsearch?year=">
-      <button id = "timeBtn">Year</button>
-      <input type = "text" id = "carrierInput" placeholder = "http://127.0.0.1:8000/carriertypesearch?carrier_type=">
-      <button id = "carrierBtn">Carrier</button>
-    </div>
-
-    <div id="data-container">
-      <div id="timeData"></div>
-      <div id="carrierData"></div>
-    </div>
-
-    <script>
-      $(document).ready(function(){
-        $("#timeBtn").click(function(){
-          var url1 = $("#timeInput").val();
-          $.get(url1, function (data) {
-            $("#timeData").html(data);
-        });
-      });
-      
-      $("#carrierBtn").click(function(){
-          var url1 = $("#carrierInput").val();
-          $.get(url1, function (data) {
-            $("#carrierData").html(data);
-        });
-      });
-    });
-    </script> -->
 
     <!-- JavaScript files. Add others here.-->
     <script type="text/javascript" src="static/data/data1.js"></script>
+
     <script type="text/javascript" src="static/js/Clustermarker_crashes_by_region.js"></script>
-    <!-- <script type="text/javascript" src="static/js/Heatmap_by_region.js"></script> -->
+
   
    
   </body>
