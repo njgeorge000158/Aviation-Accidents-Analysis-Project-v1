@@ -1,16 +1,49 @@
 <!DOCTYPE html>
-<html>
-<body style="background-color:#e6ffff;">
-<style></style>
-<h1 style="font-family:Arial, Helvetica, sans-serif;">Flight Mishap Maps: Exploring Aviation Accidents Worldwide</h1>
-<img src="Plane_crash.jfif" alt="Italian Trulli">
-<p style="font-family:Helvetica;">Some Description</p>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Flight Mishap Maps: Exploring Aviation Accidents Worldwide</title>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <link
+          rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          crossorigin="anonymous"
+        />
+        <link rel="stylesheet" href="style.css" />
+        <style>
+          body {
+            background-color: rgb(187, 226, 236);
+          }
+    
+          .jumbotron {
+            background: #bfc8f6 linear-gradient(#c2cef3, #6f94fb);
+            background-size: 100% 100%;
+            overflow: auto;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+          }
+        </style>
+      </head>
 
-<div class="buttons"></div>
-<a href='http://127.0.0.1:5500/index%20_plotly.html'><button>Accident Count Over the Year</button></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='http://127.0.0.1:5500/index.html'><button>Major Accidents in last 50 Years</button></a>
-</div>
+
+<body >
+    <div class="container">
+        <div class="jumbotron" style="text-align:center">
+          <h2 style="font-family: Helvetica;">Flight Mishap Maps: Exploring Aviation Accidents Worldwide</h2>
+
+            <img src="Plane_crash.jfif" alt="Italian Trulli">
+            <p style="font-family:Helvetica;">Add Description Here</p>
+
+            <div class="buttons"></div>
+            <a href='http://127.0.0.1:5500/index%20_plotly.html'><button>Accident Count Over the Year</button></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href='http://127.0.0.1:5500/index.html'><button>Major Accidents in last 50 Years</button></a>
+        </div>
 
 </body>
 </html>
