@@ -40,6 +40,27 @@ $(document).ready(function(){
   });
 });
 
+$(document).ready(function(){
+  let newlink = ""
+  // Get value on button click and show alert
+  $("#operatorBtn").click(function(){
+      var str = $("#operatorInput").val();
+      //console.log("str" + len(str));
+      if (str.length != 4) 
+       {
+        newlink = "http://127.0.0.1:8000/all" 
+       }
+      else
+      {
+        newlink = "http://127.0.0.1:8000/operatorsearch?operator=" + str;
+      } 
+      
+      //console.log(newlink)
+      display_graph(newlink)
+      //alert(str);
+  });
+});
+
 function countryChange (countryname)
 {
   let countrylink = "http://127.0.0.1:8000/countrysearch?country=" + countryname ; 
@@ -52,7 +73,7 @@ function countryChange (countryname)
 
 d3.json(countrylink).then(function(data) {
   
-  let myData = data
+let myData = data
 
 //Tile layer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -78,14 +99,4 @@ for (let i = 0; i < myData.length; i++) {
 
 // Add our marker cluster layer to the map.
 myMap.addLayer(markers);}
-);
-
-function display_graph(link)
-{
-  myMap.off();
-  myMap.remove();  
-  myMap = L.map("map", {
-    center: [15.5994, -28.6731],
-    zoom: 3
-  });
-}}
+);}
