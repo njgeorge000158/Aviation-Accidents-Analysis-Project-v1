@@ -1,5 +1,5 @@
 //Updates using flask 
-let link = "http://127.0.0.1:8000/countrysearch?country=";
+let link = "http://127.0.0.1:8000/all";
 let markers ; 
 
 d3.json("http://127.0.0.1:8000/alluniquecountry").then(function(data) {
