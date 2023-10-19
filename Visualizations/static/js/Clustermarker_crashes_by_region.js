@@ -1,5 +1,18 @@
 //Updates using flask 
 let link = "http://127.0.0.1:8000/countrysearch?country=";
+let markers ; 
+
+d3.json("http://127.0.0.1:8000/alluniquecountry").then(function(data) {
+      console.log(data);
+        // Create array to hold all names (all ID names)
+        var countries = data.map(x=>x.country)
+        // Append an option in the dropdown
+        countries.forEach(function(country) {
+            d3.select('#selCountry')
+                .append('option')
+                .text(country)
+            });
+          });     
 
 d3.json(link).then(function(data) {
   let myData = data
@@ -15,7 +28,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 // // Create a new marker cluster group.
-let markers = L.markerClusterGroup();
+markers = L.markerClusterGroup();
 
 // let aviation_accidents = response[0];
 
@@ -46,23 +59,13 @@ function init() {
   
   // Retrieve JSON data 
 
-  d3.json("http://127.0.0.1:8000/alluniquecountry" , function (data) {
-      console.log(data);
-        // Create array to hold all names (all ID names)
-        var countries = data.map(x=>x.country)
-        // Append an option in the dropdown
-        countries.forEach(function(country) {
-            d3.select('#selCountry')
-                .append('option')
-                .text(country)
-            });
-          });        
+     
 };
 
 function optionChanged (selectedCountry) {
-
-  let filterData = data.filter(item => item.country ==selectedCountry);
-
+  countrylink = "http://127.0.0.1:8000/countrysearch?country=" + selectedCountry; 
+  d3.json(link).then(function(data) {
+  let filterData = data
   markers.clearLayers();
 
   filterData.forEach(item => {
@@ -73,7 +76,10 @@ function optionChanged (selectedCountry) {
       );
   });
 
-  myMap.addLayer(markers);}
+  myMap.addLayer(markers);
+  })
+
+ }
 
 
 init();
