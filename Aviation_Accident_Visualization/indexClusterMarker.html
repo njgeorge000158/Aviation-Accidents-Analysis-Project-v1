@@ -16,7 +16,7 @@
     crossorigin=""></script>
 
     <!-- Import CSS file -->
-    <link rel="stylesheet" type= "text/css" href="style.css">
+    <link rel="stylesheet" type= "text/css" href="./static/css/mapping_css.css">
     
     <!-- D3 library -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -40,19 +40,30 @@
     <input type="text" id="yearInput">
       <button type="button" id="YearBtn">Enter Year</button>
 
-      <input type="text" id="operatorInput">
-      <button type="button" id="operatorBtn">Enter Operator</button>
-
     <div class="well">
       <h3>Select Country:</h3>
-    <select id="selCountry" onchange="optionChanged(this.value)" ></select>
+    <select id="selCountry" onChange="countryChanged(this.value)" ></select>
     </div>  
+    
+    <input type="text" id="operatorInput">
+    <button type="button" id="operatorBtn">Enter Operator</button>
 
+    <div class="well">
+    <h5>Select Operator:</h5>
+    <select id="seloperator" onchange="operatorChange(this.value)"></select>
+    </div>  
+    
+    
+    
     <div id="map"></div>
 
-    <!-- JavaScript files. Add others here.-->
+    <select id="selDataset" onChange="optionChanged(this.value)"></select>
 
-    <script type="text/javascript" src="Clustermarker_crashes_by_region.js"></script>
+
+    <!-- JavaScript files. Add others here.-->
+    <script type="text/javascript" src="static/data/data1.js"></script>
+
+    <script type="text/javascript" src="static/js/Clustermarker_crashes_by_region.js"></script>
 
   
    
