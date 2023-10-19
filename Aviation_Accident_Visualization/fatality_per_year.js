@@ -14,7 +14,7 @@ function display_graph(link)
       let year = []
       let fatality_count = []
       for (let i = 0; i < myData.length; i++) {
-          fat.push(myData[i].fat)
+          year.push(myData[i].year)
           fatality_count.push(myData[i].count)
       }
           
