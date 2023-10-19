@@ -19,7 +19,7 @@ function display_graph(link)
       }
           
   
-          let title = `Fatality Count Chart by Year`
+          let title = `Fatality Count Per Year`
           let trace1 = {
                 x: year,
                 y: fatality_count,
