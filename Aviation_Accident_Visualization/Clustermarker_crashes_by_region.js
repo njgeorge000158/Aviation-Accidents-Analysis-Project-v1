@@ -1,6 +1,7 @@
 //Updates using flask 
-let link = "http://127.0.0.1:8000/all";
+let link = "http://127.0.0.1:8000/countrysearch?country=";
 let markers ; 
+let myMap ;
 
 d3.json("http://127.0.0.1:8000/alluniquecountry").then(function(data) {
       console.log(data);
@@ -12,12 +13,58 @@ d3.json("http://127.0.0.1:8000/alluniquecountry").then(function(data) {
                 .append('option')
                 .text(country)
             });
-          });     
+        });
 
-d3.json(link).then(function(data) {
+// initial_graph(link)
+
+// $(document).ready(function(){
+//   let newlink = ""
+//   // Get value on button click and show alert
+//   $("#YearBtn").click(function(){
+//       var str = $("#yearInput").val();
+//       //console.log("str" + len(str));
+//       if (str.length != 4) 
+//         {
+//         newlink = "http://127.0.0.1:8000/all" 
+//         }
+//       else
+//       {
+//         newlink = "http://127.0.0.1:8000/year?year=" + str;
+//       } 
+      
+//       // console.log(newlink)
+//       display_graph(newlink)
+//       //alert(str);
+//   });
+// });
+
+// initial_graph(link)
+
+// $(document).ready(function(){
+//   let newlink = ""
+//   // Get value on button click and show alert
+//   $("#operatorBtn").click(function(){
+//       var str = $("#operatorInput").val();
+//       //console.log("str" + len(str));
+//       if (str.length != 4) 
+//        {
+//         newlink = "http://127.0.0.1:8000/all" 
+//        }
+//       else
+//       {
+//         newlink = "http://127.0.0.1:8000/operatorsearch?operator=" + str;
+//       } 
+      
+//       //console.log(newlink)
+//       display_graph(newlink)
+//       //alert(str);
+//   });
+// });
+
+d3.json("http://127.0.0.1:8000/all").then(function(data) {
   let myData = data
 
-  let myMap = L.map("map", {
+  myMap = L.map("map", {
     center: [15.5994, -28.6731],
     zoom: 3
   });
@@ -34,13 +81,10 @@ markers = L.markerClusterGroup();
 
 for (let i = 0; i < myData.length; i++) {
 
-  let location = myData[i].location;
-
-  if (location) {
+  //let location = myData[i].location;
 
     markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
-    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
-  }
+    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
 
 }
 
@@ -49,37 +93,50 @@ myMap.addLayer(markers);}
 );
 
 
-
 let countrylink = "http://127.0.0.1:8000/countrysearch?country=";
 
 // Initialize function for dropdown menu
 function init() {
-    
-  //let dropdownMenu = d3.select("#selDataset");
-  
-  // Retrieve JSON data 
-
      
 };
 
-function optionChanged (selectedCountry) {
-  countrylink = "http://127.0.0.1:8000/countrysearch?country=" + selectedCountry; 
-  d3.json(link).then(function(data) {
-  let filterData = data
-  markers.clearLayers();
+function countryChanged(selectedCountry)
+{
+  countrylink = "http://127.0.0.1:8000/countrysearch?country=" + selectedCountry;
 
-  filterData.forEach(item => {
-    markers.addLayer(
-    L.Marker([item.LAT, item.LNG]).bindPopup(
-      `<h1>${item.accident_date}</h1> <hr> <h3>Carrier Type: ${item.type}</h3><hr> <h3>Operator: ${item.operator}</h3>`
-      )
-      );
+  d3.json(countrylink).then(function(data) {
+  let myData = data
+
+  myMap.off();
+  myMap.remove();  
+
+  myMap = L.map("map", {
+    center: [15.5994, -28.6731],
+    zoom: 3
   });
 
-  myMap.addLayer(markers);
-  })
+//Tile layer
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(myMap);
 
- }
+// // Create a new marker cluster group.
+markers = L.markerClusterGroup();
 
+// let aviation_accidents = response[0];
+
+for (let i = 0; i < myData.length; i++) {
+
+  //let location = myData[i].location;
+
+    markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
+    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
+
+}
+
+// Add our marker cluster layer to the map.
+myMap.addLayer(markers);}
+);
+}
 
 init();
