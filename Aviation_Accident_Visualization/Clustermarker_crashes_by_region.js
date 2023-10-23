@@ -15,30 +15,30 @@ d3.json("http://127.0.0.1:8000/alluniquecountry").then(function(data) {
             });
         });
 
-// initial_graph(link)
+initial_graph(link)
 
-// $(document).ready(function(){
-//   let newlink = ""
-//   // Get value on button click and show alert
-//   $("#YearBtn").click(function(){
-//       var str = $("#yearInput").val();
-//       //console.log("str" + len(str));
-//       if (str.length != 4) 
-//         {
-//         newlink = "http://127.0.0.1:8000/all" 
-//         }
-//       else
-//       {
-//         newlink = "http://127.0.0.1:8000/year?year=" + str;
-//       } 
+$(document).ready(function(){
+  let newlink = ""
+  // Get value on button click and show alert
+  $("#YearBtn").click(function(){
+      var str = $("#yearInput").val();
+      //console.log("str" + len(str));
+      if (str.length != 4) 
+        {
+        newlink = "http://127.0.0.1:8000/all" 
+        }
+      else
+      {
+        newlink = "http://127.0.0.1:8000/year?year=" + str;
+      } 
       
-//       // console.log(newlink)
-//       display_graph(newlink)
-//       //alert(str);
-//   });
-// });
+      // console.log(newlink)
+      display_graph(newlink)
+      //alert(str);
+  });
+});
 
-// initial_graph(link)
+initial_graph(link)
 
 // $(document).ready(function(){
 //   let newlink = ""
@@ -55,7 +55,7 @@ d3.json("http://127.0.0.1:8000/alluniquecountry").then(function(data) {
 //         newlink = "http://127.0.0.1:8000/operatorsearch?operator=" + str;
 //       } 
       
-//       //console.log(newlink)
+//       // console.log(newlink)
 //       display_graph(newlink)
 //       //alert(str);
 //   });
@@ -120,11 +120,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // // Create a new marker cluster group.
 markers = L.markerClusterGroup();
 
-// let aviation_accidents = response[0];
-
 for (let i = 0; i < myData.length; i++) {
-
-  //let location = myData[i].location;
 
     markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
     .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
@@ -136,4 +132,67 @@ myMap.addLayer(markers);}
 );
 }
 
-init();
+// init();
+
+function display_graph(link)
+{
+  myMap.off();
+  myMap.remove();  
+  myMap = L.map("map", {
+    center: [15.5994, -28.6731],
+    zoom: 3
+  });
+
+d3.json(link, function(data) {
+  // Creating a GeoJSON layer with the retrieved data
+  let myData = data
+
+//Tile layer
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(myMap);
+
+// // Create a new marker cluster group.
+markers = L.markerClusterGroup();
+
+
+for (let i = 0; i < myData.length; i++) {
+
+    markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
+    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
+
+}
+
+// Add our marker cluster layer to the map.
+myMap.addLayer(markers);}
+);
+}  
+
+function initial_graph(link)
+{
+// Getting our GeoJSON data
+d3.json(link, function(data) {
+  // Creating a GeoJSON layer with the retrieved data
+  let myData = data
+
+//Tile layer
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(myMap);
+
+// // Create a new marker cluster group.
+markers = L.markerClusterGroup();
+
+
+for (let i = 0; i < myData.length; i++) {
+
+
+    markers.addLayer(L.marker([myData[i].LAT,myData[i].LNG])
+    .bindPopup(`<h1>${myData[i].accident_date}</h1> <hr> <h3>Carrier Type: ${myData[i].carrier_type}</h3><hr> <h3>Operator: ${myData[i].operator}</h3>`));
+
+}
+
+// Add our marker cluster layer to the map.
+myMap.addLayer(markers);}
+);
+}
