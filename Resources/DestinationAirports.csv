@@ -1,0 +1,778 @@
+,icao,iata,name,state,country,country_code,lat,lon
+0,LEIB,IBZ,Ibiza Airport,,Spain,ES,38.8728981018,1.3731199503
+1,EDDW,BRE,Bremen Airport,,Germany,DE,53.0475006104,8.7866697311
+2,UIBB,BTK,Bratsk Airport,,Russia,RU,56.3706016541,101.6979980469
+3,xxxx,xxx,La Centella,,Venezuela,VE,9.84801,-64.75758
+4,FNLB,xxx,Lobito Airport,,Angola,AO,-12.3711996078,13.5366001129
+5,EDWG,AGE,Wangerooge Airfield,,Germany,DE,53.7827796936,7.9138889313
+6,EHRD,RTM,Rotterdam Airport,,Netherlands,NL,51.9569015503,4.4372200966
+7,xxxx,xxx,Tsimmermanovka Airstrip,,Russia,RU,51.34152,139.24557
+8,KALM,ALM,Alamogordo Municipal Airport,NM,United States of America,US,32.8394166666667,-105.991138888889
+9,SKYP,EYP,El Yopal Airport,,Colombia,CO,5.31911,-72.384
+10,SVCB,CBL,Ciudad Bolívar Airport,,Venezuela,VE,8.1221609116,-63.5369567871
+11,AYMN,MDU,Mendi Airport,,Papua New Guinea,PG,-6.1477398872,143.6569976807
+12,HAGN,GDQ,Gondar Airport,,Ethiopia,ET,12.519900322,37.4339981079
+13,UNII,EIE,Yeniseysk Airport,,Russia,RU,58.4742012024,92.1125030518
+14,CYYT,YYT,St. John's Airport,NL,Canada,CA,47.618598938,-52.7518997192
+15,HECA,CAI,Cairo International Airport,,Egypt,EG,30.1219005585,31.4055995941
+16,xxxx,RWP,Rawalpindi,,Pakistan,PK,33.58874,73.04549
+17,CYEG,YEG,Edmonton International Airport,AB,Canada,CA,53.3097000122,-113.580001831
+18,USPP,PEE,Perm Airport,,Russia,RU,57.9145011902,56.0211982727
+19,LCNC,NIC,Nicosia Airport,,Cyprus,CY,35.17197,33.36489
+20,UTDL,LBD,Leninabad Airport,,Tajikistan,TJ,40.2154006958,69.6947021484
+21,UAKK,KGF,Karaganda Airport,,Kazakhstan,KZ,49.6707992554,73.3343963623
+22,WABT,EWI,Enarotali Airport,,Indonesia,ID,-3.9258999825,136.3769989014
+23,USHK,xxx,Kondinskoye Airport,,Russia,RU,59.6550827026,67.4300460815
+24,LFSB,BSL,Basel/Mulhouse Airport,,France,FR,47.5895996094,7.5299100876
+25,UIAA,HTA,Chita Airport,,Russia,RU,52.0262985229,113.3059997559
+26,xxxx,xxx,Casey,QC,Canada,CA,47.88852,-74.17518
+27,UKFF,SIP,Simferopol Airport,,Russia,RU,45.0522003174,33.9751014709
+28,KEKO,EKO,Elko Airport,NV,United States of America,US,40.825,-115.791333333333
+29,LYPG,TGD,Titograd Airport,,Montenegro,ME,42.3594017029,19.2518997192
+30,SBEK,JCR,Jacareacanga Airport,PA,Brazil,BR,-6.2331600189,-57.7769012451
+31,UHMM,GDX,Magadan Airport,,Russia,RU,59.9109992981,150.7200012207
+32,xxxx,xxx,Darvaza Airport,,Turkmenistan,TM,40.0687,53.10512
+33,SVMI,CCS,Caracas Airport,,Venezuela,VE,10.6031169891,-66.9905853271
+34,UWUU,UFA,Ufa Airport,,Russia,RU,54.5574989319,55.8744010925
+35,NSTU,PPG,Pago Pago International Airport,,American Samoa,AS,-14.3316622222222,-170.711503055556
+36,VVDN,DAD,Da Nang Airport,,Vietnam,VN,16.0438995361,108.1989974976
+37,SLOR,ORU,Oruro Airport,,Bolivia,BO,-17.962600708,-67.0762023926
+38,CYFB,YFB,Frobisher Bay Airport,NU,Canada,CA,63.756401062,-68.5558013916
+39,USHS,OVS,Sovetsky Airport,,Russia,RU,61.3266220093,63.6019134521
+40,URMM,MRV,Mineralnye Vody Airport,,Russia,RU,44.2251014709,43.0819015503
+41,xxxx,WTR,White River Airport,AZ,United States of America,US,33.83486,-109.96493
+42,KSAV,SAV,Savannah International Airport,GA,United States of America,US,32.1275833333333,-81.2021388888889
+43,HECA,CAI,Cairo International Airport,,Egypt,EG,30.1219005585,31.4055995941
+44,SKQU,MQU,Mariquita Airport,,Colombia,CO,5.21256,-74.8836
+45,DRRN,NIM,Niamey Airport,,Niger,NE,13.4814996719,2.1836099625
+46,SVMG,PMV,Porlamar Airport,,Venezuela,VE,10.9126033783,-63.9665985107
+47,PADQ,ADQ,Kodiak Airport,AK,United States of America,US,57.7497938888889,-152.493943611111
+48,PABT,BTT,Bettles Airport,AK,United States of America,US,66.9139444444445,-151.529055555556
+49,CYOX,YOX,Rea Point Airfield,NT,Canada,CA,48.40658,-123.3503
+50,HABE,BEI,Beica Airport,,Ethiopia,ET,9.3863897324,34.521900177
+51,FAJS,JNB,Johannesburg International Airport,,South Africa,ZA,-26.133667,28.242333
+52,UITK,xxx,Kazachinskoye Airport,,Russia,RU,56.2801513672,107.567565918
+53,UTDD,DYU,Dushanbe Airport,,Tajikistan,TJ,38.5433006287,68.8249969482
+54,KOKH,ODW,Oak Harbor Airport,WA,United States of America,US,48.2515277777778,-122.673666666667
+55,DXXX,LFW,Lome Airport,,Togo,TG,6.1656098366,1.2545100451
+56,SKFL,FLA,Florencia Airport,,Colombia,CO,1.58919,-75.5644
+57,KLAX,LAX,Los Angeles International Airport,CA,United States of America,US,33.9424963888889,-118.408048611111
+58,KACY,ACY,Atlantic City International Airport,NJ,United States of America,US,39.4575833333333,-74.5771666666667
+59,KUTS,HTV,Huntsville Airport,TX,United States of America,US,30.7468888888889,-95.5871666666667
+60,xxxx,xxx,Happy Valley Camp,AK,United States of America,US,59.94958,-151.72986
+61,SAZS,BRC,San Carlos de Bariloche International Airport,RN,Argentina,AR,-41.1511993408,-71.1575012207
+62,KJAN,JAN,Jackson Municipal Airport,MS,United States of America,US,32.3111666666667,-90.0758888888889
+63,RPLL,MNL,Manila Airport,,Philippines,PH,14.508600235,121.019996643
+64,UIUB,xxx,Bagdarin Airport,,Russia,RU,54.3692016602,113.4789962769
+65,PAGM,GAM,Gambell Airport,AK,United States of America,US,63.7666163888889,-171.732783888889
+66,HADM,DBM,Debre Markos Airport,,Ethiopia,ET,10.3500003815,37.716999054
+67,CYER,YER,Fort Severn Airport,ON,Canada,CA,56.018901825,-87.6761016846
+68,CYDL,YDL,Dease Lake Airport,BC,Canada,CA,58.4221992493,-130.0319976807
+69,ULNN,NVR,Novgorod Airport,,Russia,RU,58.52339,31.27008
+70,YBCS,CNS,Cairns Airport,QLD,Australia,AU,-16.885799408,145.755004883
+71,UKHH,HRK,Kharkov Airport,,Ukraine,UA,49.9248008728,36.2900009155
+72,OMDB,DXB,Dubai Airport,,United Arab Emirates,AE,25.2527999878,55.3643989563
+73,MMMX,MEX,Mexico City International Airport,,Mexico,MX,19.4363002777,-99.0720977783
+74,UAFM,FRU,Frunze Airport,,Kyrgyzstan,KG,43.0612983704,74.4776000977
+75,CYZF,YZF,Yellowknife Airport,NT,Canada,CA,62.4627990723,-114.4400024414
+76,UTAA,ASB,Ashgabat Airport,,Turkmenistan,TM,37.9868011475,58.361000061
+77,PAKT,KTN,Ketchikan International Airport,AK,United States of America,US,55.3540833333333,-131.711222222222
+78,SAZW,CUT,Cutral Airport,NE,Argentina,AR,-38.9397010803,-69.2646026611
+79,WBKK,BKI,Kota Kinabalu Airport,,Malaysia,MY,5.937210083,116.0510025024
+80,PADU,DUT,Dutch Harbor Naval Air Station,AK,United States of America,US,53.8989444444444,-166.545027777778
+81,YMAV,AVV,Avalon Airport,VIC,Australia,AU,-38.0393981934,144.468994141
+82,xxxx,xxx,Timmins/Porcupine Lake Water Aerodrome,ON,Canada,CA,48.49434,-81.15988
+83,LEST,SCQ,Santiago de Compostela Airport,,Spain,ES,42.8963012695,-8.415140152
+84,UKFK,KHC,Kerch Airport,,Ukraine,UA,45.3725013733,36.4014015198
+85,URSS,AER,Adler/Sochi Airport,,Russia,RU,43.4499015808,39.9566001892
+86,EDDK,CGN,Köln/Bonn Airport,,Germany,DE,50.8658981323,7.1427397728
+87,xxxx,xxx,Babine Lake,BC,Canada,CA,54.82236,-126.78958
+88,UKDE,OZH,Zaporozhye Airport,,Ukraine,UA,47.8670005798,35.315700531
+89,SPST,TPP,Tarapoto Airport,,Peru,PE,-6.5087399483,-76.3731994629
+90,CYXT,YXT,Terrace Airport,BC,Canada,CA,54.46849823,-128.5760040283
+91,LQSA,SJJ,Sarajevo Airport,,Bosnia and Herzegovina,BA,43.8246002197,18.3314990997
+92,PAOM,OME,Nome Airport,AK,United States of America,US,64.5125555555556,-165.444388888889
+93,URMM,MRV,Mineralnye Vody Airport,,Russia,RU,44.2251014709,43.0819015503
+94,CYZG,YZG,Salluit Airport,QC,Canada,CA,62.1794013977,-75.6671981812
+95,ODSY,GXF,Sayun Airport,,Yemen,YE,15.9660997391,48.7882995605
+96,xxxx,xxx,Forish Airstrip,,Uzbekistan,UZ,41.32569,69.24134
+97,UKCM,MPW,Zhdanov Airport,,Ukraine,UA,47.0760993958,37.4496002197
+98,KRDG,RDG,Reading Municipal Airport/Spaatz Field,PA,United States of America,US,40.3784986111111,-75.9652472222222
+99,KMSY,MSY,New Orleans International Airport,LA,United States of America,US,29.9932777777778,-90.2590277777778
+100,UHPT,xxx,Tilichiki,,Russia,RU,60.3828010559,166.0260009766
+101,OLBA,BEY,Beirut International Airport,,Lebanon,LB,33.8208999634,35.4883995056
+102,LGEL,xxx,Elefsis Air Base,,Greece,GR,38.0638008118,23.5559997559
+103,UKKG,KGO,Kirovograd Airport,,Ukraine,UA,48.5428009033,32.2849998474
+104,UIII,IKT,Irkutsk Airport,,Russia,RU,52.2680015564,104.388999939
+105,HAJM,JIM,Jimma Airport,,Ethiopia,ET,7.6660900116,36.8166007996
+106,xxxx,xxx,Colorado Creek,AK,United States of America,US,63.15202,-149.40966
+107,PABT,BTT,Bettles Airport,AK,United States of America,US,66.9139444444445,-151.529055555556
+108,PANC,ANC,Anchorage International Airport,AK,United States of America,US,61.1740847222222,-149.9981375
+109,VYKG,KET,Keng Tung Airport,,Myanmar,MM,21.3015995026,99.6360015869
+110,PANC,ANC,Anchorage International Airport,AK,United States of America,US,61.1740847222222,-149.9981375
+111,UKON,NLV,Nikolaev Airport,,Ukraine,UA,47.0578994751,31.9197998047
+112,EDDF,FRA,Frankfurt International Airport,,Germany,DE,50.0264015198,8.543129921
+113,MMSC,SZT,San Cristóbal de las Casas Airport,,Mexico,MX,16.6902999878,-92.5300979614
+114,PAOT,OTZ,Kotzebue Airport,AK,United States of America,US,66.8848055555556,-162.598138888889
+115,WMKK,KUL,Kuala Lumpur Subang International Airport,,Malaysia,MY,2.745579958,101.7099990845
+116,KSLC,SLC,Salt Lake City International Airport,UT,United States of America,US,40.7883933333333,-111.977773333333
+117,CYSR,YSR,Nanisivik Airport,NU,Canada,CA,73.03552,-84.53044
+118,KPUB,PUB,Pueblo Memorial Airport,CO,United States of America,US,38.2899475,-104.498028055556
+119,xxxx,xxx,Tanunak,AK,United States of America,US,58.29973,-134.40679
+120,SKSV,SVI,San Vicente Airport,,Colombia,CO,2.15217,-74.7663
+121,KSEA,SEA,Seattle/Tacoma International Airport,WA,United States of America,US,47.4498888888889,-122.311777777778
+122,CYXC,YXC,Cranbrook Airport,BC,Canada,CA,49.6108016968,-115.7819976807
+123,DNKN,KAN,Kano International Airport,,Nigeria,NG,12.0475997925,8.5246200562
+124,PHNL,HNL,Honolulu International Airport,HI,United States of America,US,21.3178172222222,-157.9202275
+125,KTUL,TUL,Tulsa International Airport,OK,United States of America,US,36.1983936111111,-95.8881055555556
+126,KPNS,PNS,Pensacola Regional Airport,FL,United States of America,US,30.4734166666667,-87.1866111111111
+127,KMEM,MEM,Memphis International Airport,TN,United States of America,US,35.0424113888889,-89.9766791666667
+128,CYWG,YWG,Winnipeg International Airport,MB,Canada,CA,49.9099998474,-97.2398986816
+129,RPLL,MNL,Manila Airport,,Philippines,PH,14.508600235,121.019996643
+130,VYBG,BPE,Bagan Airport,,Myanmar,MM,21.1788005829,94.9301986694
+131,FVHA,HRE,Salisbury Airport,,Zimbabwe,ZW,-17.9318008423,31.0928001404
+132,xxxx,xxx,Yablunivka Airstrip,,Ukraine,UA,50.45047,32.15689
+133,KSAN,SAN,San Diego International Airport,CA,United States of America,US,32.7335627777778,-117.189663333333
+134,UKFF,SIP,Simferopol Airport,,Russia,RU,45.0522003174,33.9751014709
+135,xxxx,xxx,Um Barka Oil Field Airstrip,,Egypt,EG,30.04427,31.23525
+136,PANC,ANC,Anchorage International Airport,AK,United States of America,US,61.1740847222222,-149.9981375
+137,UESU,xxx,Zyryanka Airport,,Russia,RU,65.7367019653,150.705001831
+138,OPKC,KHI,Karachi International Airport,,Pakistan,PK,24.9064998627,67.1607971191
+139,UTSS,SKD,Samarkand Airport,,Uzbekistan,UZ,39.7005004883,66.9838027954
+140,MBJT,GDT,Grand Turk Island Airport,,Turks and Caicos Islands,TC,21.4444999695,-71.1423034668
+141,xxxx,xxx,Mawson Station,,Antarctica,AQ,-80.41318,20.67103
+142,UUOB,EGO,Belgorod Airport,,Russia,RU,50.6437988281,36.5900993347
+143,LFCR,RDZ,Rodez Airport,,France,FR,44.4079017639,2.4826700687
+144,FVHA,HRE,Salisbury Airport,,Zimbabwe,ZW,-17.9318008423,31.0928001404
+145,NZAA,AKL,Auckland International Airport,,New Zealand,NZ,-37.0080986023,174.7920074463
+146,KSMX,xxx,Santa Maria Airport,CA,United States of America,US,34.8999444444444,-120.458083333333
+147,EVLA,LPX,Liepaya Airport,,Latvia,LV,56.5175018311,21.0969009399
+148,UNIB,BKT,Baykit Airport,,Russia,RU,61.676700592,96.3550033569
+149,PHNL,HNL,Honolulu International Airport,HI,United States of America,US,21.3178172222222,-157.9202275
+150,OLBA,BEY,Beirut International Airport,,Lebanon,LB,33.8208999634,35.4883995056
+151,KCAK,CAK,Akron/Canton Regional Airport,OH,United States of America,US,40.9150555555556,-81.4436388888889
+152,LUKK,KIV,Kishinev Airport,,Moldova,MD,46.9277000427,28.9309997559
+153,UNKL,KJA,Krasnoyarsk Airport,,Russia,RU,56.1729011536,92.4933013916
+154,CYFB,YFB,Frobisher Bay Airport,NU,Canada,CA,63.756401062,-68.5558013916
+155,CYZT,YZT,Port Hardy Airport,BC,Canada,CA,50.6805992126,-127.3669967651
+156,PABT,BTT,Bettles Airport,AK,United States of America,US,66.9139444444445,-151.529055555556
+157,CYTL,YTL,Big Trout Airport,ON,Canada,CA,53.8177986145,-89.8968963623
+158,AYKT,KZF,Kaintiba Airport,,Papua New Guinea,PG,-7.50025,146.033833333
+159,ULWW,VGD,Vologda Airport,,Russia,RU,59.2825012207,39.9444007874
+160,SAWO,USH,Ushuaia Airport,TF,Argentina,AR,-54.8227,-68.3043
+161,OPKC,KHI,Karachi International Airport,,Pakistan,PK,24.9064998627,67.1607971191
+162,NZCH,CHC,Christchurch International Airport,,New Zealand,NZ,-43.4893989563,172.5319976807
+163,PASH,SHH,Shishmaref Airport,AK,United States of America,US,66.2495833333333,-166.089361111111
+164,SPEP,xxx,Puerto Esperanza Airport,,Peru,PE,-9.7681303024,-70.7064971924
+165,FKKN,NGE,N'Gaoundéré Airport,,Cameroon,CM,7.3570098877,13.5592002869
+166,ZGCS,CSX,Changsha Datuopu Airport,,China,CN,28.1891994476,113.2200012207
+167,UNII,EIE,Yeniseysk Airport,,Russia,RU,58.4742012024,92.1125030518
+168,MUVR,VRA,Varadero Airport,,Cuba,CU,23.0344009399,-81.4353027344
+169,KMSY,MSY,New Orleans International Airport,LA,United States of America,US,29.9932777777778,-90.2590277777778
+170,xxxx,JMB,Jamba Airport,,Angola,AO,-8.81567,13.23287
+171,UTDD,DYU,Dushanbe Airport,,Tajikistan,TJ,38.5433006287,68.8249969482
+172,KSEA,SEA,Seattle/Tacoma International Airport,WA,United States of America,US,47.4498888888889,-122.311777777778
+173,MMGL,GDL,Guadalajara International Airport,,Mexico,MX,20.5217990875,-103.3109970093
+174,PADL,DLG,Dillingham Municipal Airport,AK,United States of America,US,59.0446666666667,-158.5055
+175,OEJD,JED,Jeddah International Airport,,Saudi Arabia,SA,21.679599762,39.15650177
+176,BIEG,EGS,Egilsstadir Airport,,Iceland,IS,65.2833023071,-14.4013996124
+177,OPKC,KHI,Karachi International Airport,,Pakistan,PK,24.9064998627,67.1607971191
+178,xxxx,xxx,Lazo Airfield,,Russia,RU,55.75696,37.61502
+179,MMOX,OAX,Oaxaca Airport,,Mexico,MX,16.9999008179,-96.726600647
+180,UIUN,xxx,Nizhneangarsk Airport,,Russia,RU,55.8008003235,109.5950012207
+181,PANC,ANC,Anchorage International Airport,AK,United States of America,US,61.1740847222222,-149.9981375
+182,KSBA,SBA,Santa Barbara Municipal Airport,CA,United States of America,US,34.4261913611111,-119.841492694444
+183,PAKN,AKN,King Salmon Airport,AK,United States of America,US,58.6764934722222,-156.648691
+184,PAVC,KVC,King Cove Airport,AK,United States of America,US,55.1163841666667,-162.266535555556
+185,HCMH,HGA,Hargeisa Airport,,Somalia,SO,9.5181703568,44.0887985229
+186,xxxx,xxx,Coclecito,,Panama,PA,8.80706,-80.55725
+187,SCOH,xxx,Villa O'Higgins Airport,,Chile,CL,-48.4692115784,-72.5643157959
+188,UHBE,xxx,Zeya Airport,,Russia,RU,53.6904983521,127.0907974243
+189,EHEH,EIN,Eindhoven Airport,,Netherlands,NL,51.4500999451,5.3745298386
+190,UOOO,NSK,Noril'sk Airport,,Russia,RU,69.3110961914,87.3321990967
+191,xxxx,ICO,Sicogon Island Airport,,Philippines,PH,14.60487,120.98627
+192,ENMR,MEH,Mehamn Airport,,Norway,NO,71.0297012329,27.8267002106
+193,EDMO,OBF,Oberpfaffenhofen Airport,,Germany,DE,48.081401825,11.2831001282
+194,KMCO,MCO,Orlando International Airport,FL,United States of America,US,28.4293888888889,-81.309
+195,ODAA,ADE,Aden International Airport,,Yemen,YE,12.8295001984,45.0288009644
+196,SBTT,TBT,Tabatinga Internacional Airport,AM,Brazil,BR,-4.2556700706,-69.935798645
+197,RPMZ,ZAM,Zamboanga Airport,,Philippines,PH,6.9224200249,122.0599975586
+198,SELO,LOH,Loja Airport,,Ecuador,EC,-3.9958899021,-79.3719024658
+199,SBPV,PVH,Porto Velho Airport,RO,Brazil,BR,-8.7092895508,-63.9023017883
+200,KPUB,PUB,Pueblo Memorial Airport,CO,United States of America,US,38.2899475,-104.498028055556
+201,UTAK,KRW,Krasnovodsk Airport,,Turkmenistan,TM,40.0633010864,53.0071983337
+202,CYYZ,YYZ,Toronto International Airport,ON,Canada,CA,43.6772003174,-79.6305999756
+203,OAKB,KBL,Kabul Airport,,Afghanistan,AF,34.5658988953,69.2123031616
+204,SVBM,BRM,Barquisimeto Airport,,Venezuela,VE,10.0427465439,-69.3586196899
+205,UGSS,SUI,Sukhumi Airport,,Georgia,GE,42.8582000732,41.1281013489
+206,PAFM,ABL,Ambler Airport,AK,United States of America,US,67.1062005555555,-157.857155833333
+207,UDSG,LWN,Leninakan Airport,,Armenia,AM,40.7504005432,43.8592987061
+208,CYYZ,YYZ,Toronto International Airport,ON,Canada,CA,43.6772003174,-79.6305999756
+209,DGCY,CKY,Conakry Airport,,Guinea,GN,9.57689,-13.612
+210,YTWB,TWB,Toowoomba Airport,QLD,Australia,AU,-27.5428009033,151.9160003662
+211,CYYD,YYD,Smithers Airport,BC,Canada,CA,54.8246994019,-127.1829986572
+212,OMAA,AUH,Abu Dhabi International Airport,,United Arab Emirates,AE,24.4330005646,54.6511001587
+213,RCLY,KYD,Orchid Island Airport,,Taiwan,TW,22.0270004272,121.5350036621
+214,SBAU,ARU,Araçatuba Airport,SP,Brazil,BR,-21.1413002014,-50.4247016907
+215,VYMK,MYT,Myitkyina Airport,,Myanmar,MM,25.383600235,97.3518981934
+216,CYLH,YLH,Lansdowne House Airport,ON,Canada,CA,52.1955986023,-87.9341964722
+217,DNEN,ENU,Enugu Airport,,Nigeria,NG,6.4742698669,7.5619602203
+218,CYPC,YPC,Paulatuk Airport,NT,Canada,CA,69.3608381154,-124.075469971
+219,USII,IJK,Izhevsk Airport,,Russia,RU,56.8280982971,53.4575004578
+220,YBPN,PPP,Prosperine Airport,QLD,Australia,AU,-20.4950008392,148.552001953
+221,SLSB,SRJ,San Borja Airport,,Bolivia,BO,-14.8591995239,-66.7375030518
+222,xxxx,TAV,Tau Airport,,American Samoa,AS,-14.3366,-170.72583
+223,EGGP,LPL,Liverpool International Airport,,United Kingdom,GB,53.3335990906,-2.8497200012
+224,AYTE,TFM,Telefomin Airstrip,,Papua New Guinea,PG,-5.1260804642,141.641921997
+225,EPOP,xxx,Opole/Polska Nowa Wies Airport,,Poland,PL,50.6333007812,17.7817001343
+226,CYWJ,YWJ,Fort Franklin Airport,NT,Canada,CA,65.2110977173,-123.4359970093
+227,CYYR,YYR,Goose Bay Airport,NL,Canada,CA,53.3191986084,-60.4258003235
+228,UNOO,OMS,Omsk Airport,,Russia,RU,54.966999054,73.3105010986
+229,SEZP,xxx,Zumba Airport,,Ecuador,EC,-4.82328,-79.27759
+230,OPKC,KHI,Karachi International Airport,,Pakistan,PK,24.9064998627,67.1607971191
+231,UUBI,IWA,Ivanovo Airport,,Russia,RU,56.9393997192,40.9407997131
+232,KTPA,TPA,Tampa International Airport,FL,United States of America,US,27.9754722222222,-82.53325
+233,HTDA,DAR,Dar es Salaam International Airport,,Tanzania,TZ,-6.8781099319,39.2025985718
+234,UIII,IKT,Irkutsk Airport,,Russia,RU,52.2680015564,104.388999939
+235,ZSTN,TNA,Jinan Airport,,China,CN,36.8572006226,117.216003418
+236,SKCL,CLO,Cali Airport,,Colombia,CO,3.54322,-76.3816
+237,KMIV,MIV,Millville Airport,NJ,United States of America,US,39.3678055555556,-75.0722222222222
+238,GAMB,MZI,Mopti Airport,,Mali,ML,14.5128002167,-4.079559803
+239,KRNO,RNO,Reno/Tahoe International Airport,NV,United States of America,US,39.4991111111111,-119.768111111111
+240,KIND,IND,Indianapolis International Airport,IN,United States of America,US,39.7173055555556,-86.2946388888889
+241,UWUU,UFA,Ufa Airport,,Russia,RU,54.5574989319,55.8744010925
+242,KDFW,DFW,Dallas/Fort Worth International Airport,TX,United States of America,US,32.8972330555556,-97.0376947222222
+243,PAGK,GKN,Gulkana Airport,AK,United States of America,US,62.1543347222222,-145.455291666667
+244,OAFR,FAH,Farah Airport,,Afghanistan,AF,32.3670005798,62.1829986572
+245,xxxx,xxx,Jenkinsburg,GA,United States of America,US,33.32404,-84.03474
+246,UGSP,xxx,Poti Airport,,Georgia,GE,42.1629024102,41.7058074474
+247,PAJN,JNU,Juneau International Airport,AK,United States of America,US,58.3547118055556,-134.578470527778
+248,PAVA,VAK,Chevak Airport,AK,United States of America,US,61.5408333333333,-165.600888888889
+249,KTEB,TEB,Teterboro Airport,NJ,United States of America,US,40.8501111111111,-74.0608333333333
+250,xxxx,xxx,Mirny Ice Station,,Antarctica,AQ,-80.41318,20.67103
+251,UWKB,UUA,Bugulma Airport,,Russia,RU,54.6399993896,52.801700592
+252,xxxx,LVD,Lime Village Airport,AK,United States of America,US,61.35559,-155.43676
+253,CYYR,YYR,Goose Bay Airport,NL,Canada,CA,53.3191986084,-60.4258003235
+254,UNOS,xxx,Omsk Severny Airport,,Russia,RU,54.9749984741,73.5550003052
+255,HEAX,ALY,Alexandria Airport,,Egypt,EG,31.1839008331,29.9489002228
+256,UKFF,SIP,Simferopol Airport,,Russia,RU,45.0522003174,33.9751014709
+257,KBYG,BYG,Buffalo Municipal Airport,WY,United States of America,US,44.3810833333333,-106.721805555556
+258,KTXK,TXK,Texarkana Municipal Airport,AR,United States of America,US,33.4537222222222,-93.9910277777778
+259,EDDF,FRA,Frankfurt International Airport,,Germany,DE,50.0264015198,8.543129921
+260,FQMA,MPM,Maputo International Airport,,Mozambique,MZ,-25.9207992554,32.5726013184
+261,OPPS,PEW,Peshawar Airport,,Pakistan,PK,33.9939002991,71.5146026611
+262,xxxx,SPB,Saint Thomas Island Seaplane Base,,U.S. Virgin Islands,VI,18.34899,-64.93042
+263,KPSF,PSF,Pittsfield Airport,MA,United States of America,US,42.4276201111111,-73.2908398055555
+264,NFFN,NAN,Nadi International Airport,,Fiji,FJ,-17.755399704,177.4429931641
+265,KSLC,SLC,Salt Lake City International Airport,UT,United States of America,US,40.7883933333333,-111.977773333333
+266,CYPL,YPL,Pickle Lake Airport,ON,Canada,CA,51.4463996887,-90.2142028809
+267,WABL,ILA,Ilaga Airport,,Indonesia,ID,-3.8332800865,137.5829925537
+268,OAKB,KBL,Kabul Airport,,Afghanistan,AF,34.5658988953,69.2123031616
+269,VYMS,MOG,Mong Hsat Airport,,Myanmar,MM,20.5167999268,99.2567977905
+270,KTVL,TVL,Lake Tahoe Airport,CA,United States of America,US,38.8938888888889,-119.995333333333
+271,VTSP,HKT,Phuket International Airport,,Thailand,TH,8.1132001877,98.3169021606
+272,HELX,LXR,Luxor Airport,,Egypt,EG,25.670999527,32.7066001892
+273,KCVG,CVG,Cincinnati/Northern Kentucky Airport,KY,United States of America,US,39.0488375,-84.6678208333333
+274,KSJC,SJC,San Jose Municipal Airport,CA,United States of America,US,37.3629947222222,-121.928620555556
+275,EGNM,LBA,Leeds/Bradford Airport,,United Kingdom,GB,53.8658981323,-1.6605700254
+276,KRNO,RNO,Reno/Tahoe International Airport,NV,United States of America,US,39.4991111111111,-119.768111111111
+277,xxxx,SZP,Santa Paula Airport,CA,United States of America,US,34.3470176111111,-119.061616611111
+278,CYDM,XRR,Ross River Airport,YT,Canada,CA,61.9706001282,-132.4230041504
+279,PAHO,HOM,Homer Airport,AK,United States of America,US,59.6449949722222,-151.485808416667
+280,NZCH,CHC,Christchurch International Airport,,New Zealand,NZ,-43.4893989563,172.5319976807
+281,CYBL,YBL,Campbell River Airport,BC,Canada,CA,49.9508018494,-125.2710037231
+282,KSFO,SFO,San Francisco International Airport,CA,United States of America,US,37.6188055555556,-122.375416666667
+283,KMLU,MLU,Monroe Municipal Airport,LA,United States of America,US,32.51055525,-92.0361337222222
+284,RCGI,GNI,Green Island Airport,,Taiwan,TW,22.6739006042,121.466003418
+285,USTR,TJM,Tyumen Airport,,Russia,RU,57.1896018982,65.3243026733
+286,EDDL,DUS,Düsseldorf Airport,,Germany,DE,51.2895011902,6.7667798996
+287,USRR,SGC,Surgut Airport,,Russia,RU,61.3437004089,73.401802063
+288,OMSJ,SHJ,Sharjah Airport,,United Arab Emirates,AE,25.3285999298,55.51720047
+289,FAJS,JNB,Johannesburg International Airport,,South Africa,ZA,-26.133667,28.242333
+290,UIUB,xxx,Bagdarin Airport,,Russia,RU,54.3692016602,113.4789962769
+291,PHNL,HNL,Honolulu International Airport,HI,United States of America,US,21.3178172222222,-157.9202275
+292,ENBN,BNN,Brønnøysund Airport,,Norway,NO,65.4610977173,12.217499733
+293,KMMU,MMU,Morristown Municipal Airport,NJ,United States of America,US,40.7993383333333,-74.4148886111111
+294,EDDV,HAJ,Hannover Airport,,Germany,DE,52.461101532,9.6850795746
+295,SARP,PSS,Posadas Airport,MI,Argentina,AR,-27.3858,-55.9707
+296,VYPT,PBU,Putao Airport,,Myanmar,MM,27.3299007416,97.4263000488
+297,LFSB,BSL,Basel/Mulhouse Airport,,France,FR,47.5895996094,7.5299100876
+298,OMDB,DXB,Dubai Airport,,United Arab Emirates,AE,25.2527999878,55.3643989563
+299,KCNO,CNO,Chino Airport,CA,United States of America,US,33.9747793055556,-117.636482833333
+300,BIRK,RKV,Reykjavík Domestic Airport,,Iceland,IS,64.1299972534,-21.9405994415
+301,OPRN,ISB,Islamabad International Airport,,Pakistan,PK,33.5490833333333,72.82565
+302,UIII,IKT,Irkutsk Airport,,Russia,RU,52.2680015564,104.388999939
+303,UEKK,xxx,Zhigansk Airport,,Russia,RU,53.21378,34.1832
+304,KSLC,SLC,Salt Lake City International Airport,UT,United States of America,US,40.7883933333333,-111.977773333333
+305,MMLC,LZC,Lázaro Cárdenas Airport,,Mexico,MX,18.0016994476,-102.221000671
+306,PAPG,PSG,Petersburg Municipal Airport,AK,United States of America,US,56.8014722222222,-132.946222222222
+307,KRDD,RDD,Redding Airport,CA,United States of America,US,40.5089722222222,-122.293388888889
+308,HAAY,ASM,Asmara International Airport,,Eritrea,ER,15.2918996811,38.9107017517
+309,UEBB,BQJ,Batagay Airport,,Russia,RU,67.6480026245,134.6950073242
+310,xxxx,xxx,Linfen Air Base,,China,CN,39.90657,116.38765
+311,CYPM,YPM,Pikangikum Airport,ON,Canada,CA,51.8196983337,-93.9732971191
+312,CYLD,YLD,Chapleau Airport,ON,Canada,CA,47.8199996948,-83.3467025757
+313,HLLT,TIP,Tripoli International Airport,,Libya,LY,32.6635017395,13.1590003967
+314,HECA,CAI,Cairo International Airport,,Egypt,EG,30.1219005585,31.4055995941
+315,PAKW,KLW,Klawock Airport,AK,United States of America,US,55.5792222222222,-133.076
+316,NZAA,AKL,Auckland International Airport,,New Zealand,NZ,-37.0080986023,174.7920074463
+317,CYWG,YWG,Winnipeg International Airport,MB,Canada,CA,49.9099998474,-97.2398986816
+318,MMCZ,CZM,Cozumel Airport,,Mexico,MX,20.5223999023,-86.9255981445
+319,KFMN,FMN,Farmington Municipal Airport,NM,United States of America,US,36.7412511111111,-108.229941666667
+320,LRBO,xxx,Boboc Air Base,,Romania,RO,45.19704,26.97426
+321,SKTM,TME,Tame Airport,,Colombia,CO,6.45108,-71.7603
+322,OAZJ,ZAJ,Zaranj Airport,,Afghanistan,AF,30.972222,61.865833
+323,CYVB,YVB,Bonaventure Airport,QC,Canada,CA,48.0710983276,-65.4602966309
+324,HCMM,MGQ,Mogadishu International Airport,,Somalia,SO,2.0144400597,45.3046989441
+325,UHMP,PWE,Pevek Airport,,Russia,RU,69.7833023071,170.5970001221
+326,NZCH,CHC,Christchurch International Airport,,New Zealand,NZ,-43.4893989563,172.5319976807
+327,LGSM,SMI,Samos Airport,,Greece,GR,37.6899986267,26.911699295
+328,NZMF,MFN,Milford Sound Airport,,New Zealand,NZ,-44.6733016968,167.9230041504
+329,OPRN,ISB,Islamabad International Airport,,Pakistan,PK,33.5490833333333,72.82565
+330,xxxx,xxx,Mayfield Graves County Airport,KY,United States of America,US,36.76309,-88.582
+331,CYXT,YXT,Terrace Airport,BC,Canada,CA,54.46849823,-128.5760040283
+332,xxxx,TDF,Roxboro/Person County Airport,NC,United States of America,US,36.39815,-78.98237
+333,KDTS,DSI,Destin Airport,FL,United States of America,US,30.4000547222222,-86.4714722222222
+334,LTAF,ADA,Adana Airport,,Turkey,TR,36.9822006226,35.2803993225
+335,UDSG,LWN,Leninakan Airport,,Armenia,AM,40.7504005432,43.8592987061
+336,PHMK,MKK,Molokai/Kaunakakai Airport,HI,United States of America,US,21.1528858333333,-157.096256111111
+337,ENDU,BDU,Bardufoss Airport,,Norway,NO,69.0558013916,18.5403995514
+338,USHS,OVS,Sovetsky Airport,,Russia,RU,61.3266220093,63.6019134521
+339,UAKD,DZN,Zhezhazgan Airport,,Kazakhstan,KZ,47.7083015442,67.7332992554
+340,xxxx,JMB,Jamba Airport,,Angola,AO,-8.81567,13.23287
+341,KWST,WST,Westerly State Airport,RI,United States of America,US,41.3496329722222,-71.8034168333333
+342,UWUU,UFA,Ufa Airport,,Russia,RU,54.5574989319,55.8744010925
+343,KMTJ,MTJ,Montrose County Airport,CO,United States of America,US,38.5098055555556,-107.89425
+344,KALB,ALB,Albany Airport,NY,United States of America,US,42.7491161111111,-73.80198
+345,RPVR,RXS,Roxas City Airport,,Philippines,PH,11.597700119,122.7519989014
+346,CYMO,YMO,Moosonee Airport,ON,Canada,CA,51.2910995483,-80.6078033447
+347,YMBA,MRG,Mareeba Airport,QLD,Australia,AU,-17.0692005157,145.4190063477
+348,RPMS,SUG,Surigao Airport,,Philippines,PH,9.7558383256,125.480947495
+349,CYZF,YZF,Yellowknife Airport,NT,Canada,CA,62.4627990723,-114.4400024414
+350,MMCZ,CZM,Cozumel Airport,,Mexico,MX,20.5223999023,-86.9255981445
+351,KLRU,LRU,Las Cruces Municipal Airport,NM,United States of America,US,32.2894166666667,-106.921972222222
+352,CYQX,YQX,Gander Airport,NL,Canada,CA,48.9369010925,-54.5680999756
+353,KPMD,PMD,Palmdale Airport,CA,United States of America,US,34.6293888888889,-118.084552777778
+354,CYYR,YYR,Goose Bay Airport,NL,Canada,CA,53.3191986084,-60.4258003235
+355,SETH,TSC,Taisha Airport,,Ecuador,EC,-2.3816699982,-77.5027999878
+356,SBBR,BSB,Brasília International Airport,DF,Brazil,BR,-15.8691673279,-47.9208335876
+357,CYYD,YYD,Smithers Airport,BC,Canada,CA,54.8246994019,-127.1829986572
+358,NTMD,NHV,Nuku Hiva Airport,,French Polynesia,PF,-8.7955999374,-140.2290039063
+359,OICC,KSH,Kermanshah Airport,,Iran,IR,34.3459014893,47.1581001282
+360,CYRC,xxx,Chicoutimi St Honoré Airport,QC,Canada,CA,48.5208015442,-71.0505981445
+361,SPCL,PCL,Pucallpa Airport,,Peru,PE,-8.3779401779,-74.5743026733
+362,KBHM,BHM,Birmingham Airport,AL,United States of America,US,33.5638888888889,-86.7523055555556
+363,USHS,OVS,Sovetsky Airport,,Russia,RU,61.3266220093,63.6019134521
+364,GABS,BKO,Bamako Airport,,Mali,ML,12.5334997177,-7.9499402046
+365,WAOP,PKY,Palangkaraya Airport,,Indonesia,ID,-2.2251300812,113.9430007935
+366,WBGM,MUR,Marudi Airport,,Malaysia,MY,4.1789798737,114.3290023804
+367,UNOO,OMS,Omsk Airport,,Russia,RU,54.966999054,73.3105010986
+368,WAOS,SMQ,Sampit Airport,,Indonesia,ID,-2.4991900921,112.9749984741
+369,URML,MCX,Makhachkala Airport,,Russia,RU,42.8167991638,47.6523017883
+370,UWKB,UUA,Bugulma Airport,,Russia,RU,54.6399993896,52.801700592
+371,EDFE,xxx,Egelsbach Airfield,,Germany,DE,49.9599990845,8.6458330154
+372,UEST,IKS,Tiksi Airport,,Russia,RU,71.6977005005,128.9029998779
+373,RCFN,TTT,Taitung Airport,,Taiwan,TW,22.7549991608,121.1019973755
+374,AYGA,GKA,Goroka Airport,,Papua New Guinea,PG,-6.0816898346,145.391998291
+375,xxxx,xxx,Perris Valley Airport,CA,United States of America,US,33.8648,-117.25618
+376,xxxx,xxx,Cumuatillo Airstrip,,Mexico,MX,20.15118,-102.62335
+377,KMTW,MTW,Manitowoc/Newton Municipal Airport,WI,United States of America,US,44.1287777777778,-87.6805833333333
+378,UNOO,OMS,Omsk Airport,,Russia,RU,54.966999054,73.3105010986
+379,PAVA,VAK,Chevak Airport,AK,United States of America,US,61.5408333333333,-165.600888888889
+380,ZSAM,XMN,Xiamen Airport,,China,CN,24.5440006256,118.1279983521
+381,UUBI,IWA,Ivanovo Airport,,Russia,RU,56.9393997192,40.9407997131
+382,GYGM,YGM,Gimli Airport,MB,Canada,CA,50.6281013489,-97.043296814
+383,SPEE,xxx,El Estrecho Airport,,Peru,PE,-2.4540600777,-72.6706008911
+384,SPBL,BLP,Bellavista Airport,,Peru,PE,-7.0605602264,-76.5821990967
+385,KSCK,SCK,Stockton Airport,CA,United States of America,US,37.8944102777778,-121.23874
+386,xxxx,AZG,Apatzingan Airport,,Mexico,MX,19.08721,-102.35482
+387,KBWI,BWI,Baltimore/Washington International Airport,MD,United States of America,US,39.1757283333333,-76.6689911111111
+388,FZNA,GOM,Goma Airport,,Democratic Republic of the Congo,CD,-1.6708099842,29.2385005951
+389,EGPF,GLA,Glasgow International Airport,,United Kingdom,GB,55.8718986511,-4.4330601692
+390,FNCT,CBT,Catumbela Airport,,Angola,AO,-12.4792003632,13.4869003296
+391,MMUN,CUN,Cancún Airport,,Mexico,MX,21.0365009308,-86.8770980835
+392,CZVL,xxx,Edmonton/Villeneuve Airport,AB,Canada,CA,53.6674995422,-113.853996277
+393,EDDN,NUE,Nürnberg Airport,,Germany,DE,49.4986991882,11.0669002533
+394,WBGM,MUR,Marudi Airport,,Malaysia,MY,4.1789798737,114.3290023804
+395,LGEL,xxx,Elefsis Air Base,,Greece,GR,38.0638008118,23.5559997559
+396,UEEA,ADH,Aldan Airport,,Russia,RU,58.6027984619,125.408996582
+397,UTDD,DYU,Dushanbe Airport,,Tajikistan,TJ,38.5433006287,68.8249969482
+398,VOPB,IXZ,Port Blair Airport,,India,IN,11.6412000656,92.7296981812
+399,KPHF,PHF,Newport News/Williamsburg International Airport,VA,United States of America,US,37.1318888888889,-76.4929722222222
+400,CYWG,YWG,Winnipeg International Airport,MB,Canada,CA,49.9099998474,-97.2398986816
+401,OIKK,KER,Kerman Airport,,Iran,IR,30.2744007111,56.9510993958
+402,CYEV,YEV,Inuvik/Mike Zubko Airport,NT,Canada,CA,68.3041992188,-133.483001709
+403,LEAP,xxx,Ampuriabrava Airport,,Spain,ES,42.2599983215,3.109721899
+404,CYLJ,YLJ,Meadow Lake Airport,SK,Canada,CA,54.1253013611,-108.5230026245
+405,URMN,NAL,Nalchik Airport,,Russia,RU,43.5129013062,43.6366004944
+406,YSTW,TMW,Tamworth Airport,NSW,Australia,AU,-31.0839004517,150.847000122
+407,KEYW,EYW,Key West International Airport,FL,United States of America,US,24.5561197222222,-81.7599558333333
+408,KPDX,PDX,Portland International Airport,OR,United States of America,US,45.5887088611111,-122.596869416667
+409,YAUR,AUU,Aurukun Mission Airport,QLD,Australia,AU,-13.3538999557,141.720993042
+410,RJBH,HIW,Hiroshima West Airport,,Japan,JP,34.3669013977,132.4140014648
+411,HRYR,KGL,Kigali Airport,,Rwanda,RW,-1.9686299563,30.1394996643
+412,SBEK,JCR,Jacareacanga Airport,PA,Brazil,BR,-6.2331600189,-57.7769012451
+413,MMPN,UPN,Uruapan Airport,,Mexico,MX,19.3966999054,-102.0390014648
+414,GQND,TIY,Tidjikja Airport,,Mauritania,MR,18.5701007843,-11.423500061
+415,KMSO,MSO,Missoula Airport,MT,United States of America,US,46.9163055555556,-114.090555555556
+416,LDPL,PUY,Pula Airport,,Croatia,HR,44.8935012817,13.9222002029
+417,xxxx,xxx,Pruth Bay,BC,Canada,CA,48.42855,-123.36446
+418,SBTK,TRQ,Tarauacá Airport,AC,Brazil,BR,-8.1552600861,-70.7833023071
+419,UNIT,xxx,Tura,,Russia,RU,64.3335113525,100.4328918457
+420,xxxx,PVX,Provedenia Airport,,Russia,RU,55.75696,37.61502
+421,URRR,ROV,Rostov Airport,,Russia,RU,47.2582015991,39.8180999756
+422,UEBW,xxx,Verkhoyansk Airport,,Russia,RU,67.5430984497,133.3988037109
+423,xxxx,OBD,Obano Airport,,Indonesia,ID,-6.96568,110.37766
+424,SPOA,SQU,Saposoa Airport,,Peru,PE,-6.9600300789,-76.7684020996
+425,KOAK,OAK,Oakland International Airport,CA,United States of America,US,37.72125,-122.221138888889
+426,xxxx,BVP,Bolovip Airport,,Papua New Guinea,PG,-9.45508,147.20381
+427,AYSO,SBC,Selbang Airport,,Papua New Guinea,PG,-9.45508,147.20381
+428,FADN,DUR,Durban International Airport,,South Africa,ZA,-29.9701004028,30.9505004883
+429,WATG,RTG,Ruteng Airport,,Indonesia,ID,-8.5970096588,120.4769973755
+430,CZMT,ZMT,Masset Airport,BC,Canada,CA,54.0275001526,-132.125
+431,UNAA,ABA,Abakan Airport,,Russia,RU,53.7400016785,91.3850021362
+432,FNLU,LAD,Luanda Airport,,Angola,AO,-8.8583698273,13.2312002182
+433,KRNO,RNO,Reno/Tahoe International Airport,NV,United States of America,US,39.4991111111111,-119.768111111111
+434,CYXL,YXL,Sioux Lookout Airport,ON,Canada,CA,50.113899231,-91.9052963257
+435,USCM,MQF,Magnitogorsk Airport,,Russia,RU,53.3931007385,58.7556991577
+436,NZPM,PMR,Palmerston North Airport,,New Zealand,NZ,-40.3205986023,175.6170043945
+437,xxxx,xxx,Oktyabrsky Airfield,,Russia,RU,54.48372,53.47851
+438,FNCT,CBT,Catumbela Airport,,Angola,AO,-12.4792003632,13.4869003296
+439,MMTO,TLC,Toluca Airport,,Mexico,MX,19.3370990753,-99.5660018921
+440,KMKC,MKC,Kansas City Downtown Municipal Airport,MO,United States of America,US,39.1229444444444,-94.5928333333333
+441,OAJL,JAA,Jalalabad Airport,,Afghanistan,AF,34.3997993469,70.4985961914
+442,WBKW,TWU,Tawau Airport,,Malaysia,MY,4.3201599121,118.1279983521
+443,YSTW,TMW,Tamworth Airport,NSW,Australia,AU,-31.0839004517,150.847000122
+444,CYBL,YBL,Campbell River Airport,BC,Canada,CA,49.9508018494,-125.2710037231
+445,UWUU,UFA,Ufa Airport,,Russia,RU,54.5574989319,55.8744010925
+446,MMPG,PDS,Piedras Negras Airport,,Mexico,MX,28.6273994446,-100.5350036621
+447,DNKA,KAD,Kaduna Airport,,Nigeria,NG,10.6960000992,7.3201098442
+448,FKKD,DLA,Douala Airport,,Cameroon,CM,4.0060801506,9.7194795609
+449,xxxx,BNT,Bundi Airport,,Papua New Guinea,PG,-9.45508,147.20381
+450,KEGV,EGV,Eagle River Airport,WI,United States of America,US,45.9323333333333,-89.2682777777778
+451,SPGU,xxx,Bagua Airport,,Peru,PE,-5.6347222328,-78.5305557251
+452,HTMG,xxx,Morogoro Airport,,Tanzania,TZ,-6.7972202301,37.6530990601
+453,CYVT,YVT,Buffalo Narrows Airport,SK,Canada,CA,55.8418998718,-108.417999268
+454,AYMW,MWG,Marawaka Airport,,Papua New Guinea,PG,-9.45508,147.20381
+455,EGET,LWK,Lerwick/Tingwall Airport,Shetland Islands,United Kingdom,GB,60.192199707,-1.2436100245
+456,ZYCH,CNI,Changhai Airport,,China,CN,39.2666666667,122.666944444
+457,DIYO,ASK,Yamoussoukro Airport,,Cote d'Ivoire,CI,6.9031701088,-5.3655800819
+458,AYMN,MDU,Mendi Airport,,Papua New Guinea,PG,-6.1477398872,143.6569976807
+459,PANI,ANI,Aniak Airport,AK,United States of America,US,61.5814052777778,-159.545298055556
+460,xxxx,xxx,Markham Bay,NU,Canada,CA,43.85651,-79.33982
+461,PAWG,WRG,Wrangell Airport,AK,United States of America,US,56.4843333333333,-132.369833333333
+462,xxxx,xxx,Alliford Bay,BC,Canada,CA,53.21079,-131.98583
+463,MMES,ESE,Ensenada Airport,,Mexico,MX,31.79529953,-116.6029968262
+464,KMIA,MIA,Miami International Airport,FL,United States of America,US,25.7953611111111,-80.2901158333333
+465,xxxx,xxx,Koslan Airfield,,Russia,RU,63.45648,48.89456
+466,PAGG,KWK,Kwigillingok Airport,AK,United States of America,US,59.8756888888889,-163.1680875
+467,PAEN,ENA,Kenai Airport,AK,United States of America,US,60.5732777777778,-151.244833333333
+468,DNYO,YOL,Yola Airport,,Nigeria,NG,9.2575502396,12.4303998947
+469,SBCJ,CKS,Carajás Airport,PA,Brazil,BR,-6.1152777672,-50.0013885498
+470,LTCG,TZX,Trabzon Airport,,Turkey,TR,40.995098114,39.7896995544
+471,PABE,BET,Bethel Airport,AK,United States of America,US,60.7785555555556,-161.837166666667
+472,UBBG,KVD,Gyandzha Airport,,Azerbaijan,AZ,40.738833,46.32
+473,MMTO,TLC,Toluca Airport,,Mexico,MX,19.3370990753,-99.5660018921
+474,FZIA,FKI,Kisangani Airport,,Democratic Republic of the Congo,CD,0.5174999833,25.1550006866
+475,xxxx,xxx,Shakhty Airport,,Russia,RU,47.71214,40.20864
+476,VTSR,UNN,Ranong Airport,,Thailand,TH,9.7776203156,98.5855026245
+477,KDNN,DNN,Dalton Municipal Airport,GA,United States of America,US,34.7229388888889,-84.8702413888889
+478,KPGA,PGA,Page Airport,AZ,United States of America,US,36.9260694444444,-111.448350555556
+479,KJAN,JAN,Jackson International Airport,MS,United States of America,US,32.3111666666667,-90.0758888888889
+480,CZGR,ZGR,Little Grand Rapids Airport,MB,Canada,CA,52.0456008911,-95.4657974243
+481,OMSJ,SHJ,Sharjah Airport,,United Arab Emirates,AE,25.3285999298,55.51720047
+482,VYKP,KYP,Kyaukpyu Airport,,Myanmar,MM,19.426399231,93.5347976685
+483,RCKH,KHH,Kaohsiung International Airport,,Taiwan,TW,22.5771007538,120.3499984741
+484,OAKB,KBL,Kabul Airport,,Afghanistan,AF,34.5658988953,69.2123031616
+485,SPUR,PIU,Piura Airport,,Peru,PE,-5.2057499886,-80.6164016724
+486,ZMMN,MXV,Moron Airport,,Mongolia,MN,49.6632995605,100.0989990234
+487,UKON,NLV,Nikolaev Airport,,Ukraine,UA,47.0578994751,31.9197998047
+488,VOTV,TRV,Thiruvananthapuram International Airport,,India,IN,8.4821195602,76.9200973511
+489,HUKS,KSE,Kasese Airport,,Uganda,UG,0.1829999983,30.1000003815
+490,GEML,MLN,Melilla Airport,,Spain,ES,35.279800415,-2.9562599659
+491,SVCN,CAJ,Canaima Airport,,Venezuela,VE,6.2319889069,-62.8544311523
+492,MGQZ,AAZ,Quetzaltenango Airport,,Guatemala,GT,14.8655996323,-91.5019989014
+493,CYYJ,YYJ,Victoria International Airport,BC,Canada,CA,48.646900177,-123.4260025024
+494,EGJB,GCI,Guernsey Airport,Channel Islands,United Kingdom,GB,49.4350013733,-2.6019699574
+495,KTXK,TXK,Texarkana Municipal Airport,AR,United States of America,US,33.4537222222222,-93.9910277777778
+496,CYXK,YXK,Rimouski Airport,QC,Canada,CA,48.478099823,-68.4969024658
+497,CYYJ,YYJ,Victoria International Airport,BC,Canada,CA,48.646900177,-123.4260025024
+498,YCCT,CNC,Coconut Island Airport,QLD,Australia,AU,-10.0500001907,143.0700073242
+499,VNNG,KEP,Nepalganj Airport,,Nepal,NP,28.1035995483,81.6669998169
+500,xxxx,KDR,Kandrian Airport,,Papua New Guinea,PG,-6.2659,149.5581
+501,KBIH,BIH,Bishop Airport,CA,United States of America,US,37.3731111111111,-118.363611111111
+502,ZSWZ,WNZ,Wenzhou Yongqiang Airport,,China,CN,27.9122009277,120.8519973755
+503,xxxx,YDI,Davis Inlet Airport,NL,Canada,CA,43.79422,-79.76422
+504,xxxx,xxx,Mara Shika Airstrip,,Kenya,KE,-1.03986,37.10548
+505,KLIT,LIT,Little Rock National Airport,AR,United States of America,US,34.7294413888889,-92.2247772222222
+506,xxxx,xxx,Long Haul Lake,MB,Canada,CA,50.87301,-95.38168
+507,RPUY,CYZ,Cauayan Airport,,Philippines,PH,16.9298992157,121.752998352
+508,CWJC,xxx,Ennadai Lake Airport,NU,Canada,CA,61.1333333333,-100.9
+509,SADF,xxx,San Fernando Airport,BA,Argentina,AR,-34.4532,-58.5896
+510,PHMK,MKK,Molokai/Kaunakakai Airport,HI,United States of America,US,21.1528858333333,-157.096256111111
+511,FOOD,MFF,Moanda Airport,,Gabon,GA,-1.5329999924,13.2670001984
+512,ZHHH,WUH,Wuhan Tianhe International Airport,,China,CN,30.7838001251,114.2080001831
+513,VNDH,DHI,Dhangadhi Airport,,Nepal,NP,28.7532997131,80.5819015503
+514,CYDL,YDL,Dease Lake Airport,BC,Canada,CA,58.4221992493,-130.0319976807
+515,OBBI,BAH,Bahrain International Airport,,Bahrain,BH,26.2707996368,50.6335983276
+516,YLEO,LNO,Leonora Airport,WA,Australia,AU,-28.8780994415,121.3150024414
+517,CYZF,YZF,Yellowknife Airport,NT,Canada,CA,62.4627990723,-114.4400024414
+518,LEBA,ODB,Córdoba Airport,,Spain,ES,37.841999054,-4.8488798141
+519,PAEN,ENA,Kenai Airport,AK,United States of America,US,60.5732777777778,-151.244833333333
+520,xxxx,xxx,Rangeley Municipal Airport,ME,United States of America,US,45.28448,-92.36793
+521,LEPA,PMI,Palma de Mallorca Airport,,Spain,ES,39.551700592,2.7388100624
+522,SYMD,MHA,Mahdia Airport,,Guyana,GY,5.277490139,-59.1511001587
+523,PANC,ANC,Anchorage International Airport,AK,United States of America,US,61.1740847222222,-149.9981375
+524,SVMG,PMV,Porlamar Airport,,Venezuela,VE,10.9126033783,-63.9665985107
+525,SKMU,MVP,Mitú Airport,,Colombia,CO,1.25366,-70.2339
+526,KASE,ASE,Aspen Airport,CO,United States of America,US,39.2218888888889,-106.868222222222
+527,SAVT,REL,Trelew Airport,CB,Argentina,AR,-43.2105,-65.2703
+528,xxxx,xxx,Ballieston East,VIC,Australia,AU,-36.78179,145.11446
+529,UOOO,NSK,Noril'sk Airport,,Russia,RU,69.3110961914,87.3321990967
+530,BGBW,UAK,Narsarsuaq Airport,,Greenland,GL,61.1604995728,-45.4259986877
+531,FZOE,xxx,Kampene Airport,,Democratic Republic of the Congo,CD,-3.5829999447,26.7000007629
+532,LEMG,AGP,Málaga Airport,,Spain,ES,36.6749000549,-4.4991102219
+533,KSFO,SFO,San Francisco International Airport,CA,United States of America,US,37.6188055555556,-122.375416666667
+534,MMCZ,CZM,Cozumel Airport,,Mexico,MX,20.5223999023,-86.9255981445
+535,PAKN,AKN,King Salmon Airport,AK,United States of America,US,58.6764934722222,-156.648691
+536,CZTM,ZTM,Shamattawa Airport,MB,Canada,CA,55.8656005859,-92.0813980103
+537,KBCT,BCT,Boca Raton Public Airport,FL,United States of America,US,26.3784855555556,-80.1076963888889
+538,KEKY,xxx,Bessemer Airport,AL,United States of America,US,33.3126111111111,-86.9263055555556
+539,YMTG,MGB,Mount Gambier Airport,SA,Australia,AU,-37.7456016541,140.7850036621
+540,FZNP,BNC,Beni Airport,,Democratic Republic of the Congo,CD,0.5749999881,29.4738998413
+541,EDWG,AGE,Wangerooge Airfield,,Germany,DE,53.7827796936,7.9138889313
+542,KBGR,BGR,Bangor International Airport,ME,United States of America,US,44.8074444444444,-68.8281388888889
+543,MUCC,CCC,Cayo Coco/Jardines del Rey Airport,,Cuba,CU,22.4610004425,-78.3283996582
+544,DNCA,CBQ,Calabar Airport,,Nigeria,NG,4.9760198593,8.3472003937
+545,WABT,EWI,Enarotali Airport,,Indonesia,ID,-3.9258999825,136.3769989014
+546,FAGG,GRJ,George Airport,,South Africa,ZA,-34.0055999756,22.378900528
+547,VNSK,SKH,Surkhet Airport,,Nepal,NP,28.5860004425,81.6360015869
+548,VNPK,PKR,Pokhara Airport,,Nepal,NP,28.2008991241,83.9821014404
+549,xxxx,xxx,Ayan Airport,,Russia,RU,53.21378,34.1832
+550,ZUXC,XIC,Xichang Airport,,China,CN,27.9890995026,102.1839981079
+551,xxxx,xxx,Aguanish River,QC,Canada,CA,50.22842,-62.1056
+552,AYMD,MAG,Madang Airport,,Papua New Guinea,PG,-5.2070798874,145.789001465
+553,xxxx,xxx,Borki Airport,,Russia,RU,54.88211,20.58623
+554,xxxx,xxx,Larandia Air Base,,Colombia,CO,4.61496,-74.06942
+555,WAJW,WMX,Wamena Airport,,Indonesia,ID,-4.1025099754,138.9570007324
+556,MMCM,CTM,Chetumal Airport,,Mexico,MX,18.504699707,-88.3267974854
+557,KSAT,SAT,San Antonio International Airport,TX,United States of America,US,29.5339583333333,-98.4690569444444
+558,CYXC,YXC,Cranbrook Airport,BC,Canada,CA,49.6108016968,-115.7819976807
+559,SDCO,SOD,Sorocaba Airport,SP,Brazil,BR,-23.4780006409,-47.4900016785
+560,xxxx,SUR,Summer Beaver Airport,ON,Canada,CA,52.7085990906,-88.5419006348
+561,LEMG,AGP,Málaga Airport,,Spain,ES,36.6749000549,-4.4991102219
+562,KDRT,DRT,Del Rio International Airport,TX,United States of America,US,29.3742069444444,-100.927156944444
+563,KSBD,SBD,San Bernardino International Airport,CA,United States of America,US,34.0953611111111,-117.234888888889
+564,NZPM,PMR,Palmerston North Airport,,New Zealand,NZ,-40.3205986023,175.6170043945
+565,RPUT,TUG,Tuguegarao Airport,,Philippines,PH,17.6433676823,121.733150482
+566,SKMU,MVP,Mitú Airport,,Colombia,CO,1.25366,-70.2339
+567,HLKF,AKF,Kufrah Airport,,Libya,LY,24.1786994934,23.313999176
+568,UTTT,TAS,Tashkent Airport,,Uzbekistan,UZ,41.257900238,69.2811965942
+569,CYQG,YQG,Windsor Airport,ON,Canada,CA,42.2756004333,-82.9555969238
+570,OMSJ,SHJ,Sharjah Airport,,United Arab Emirates,AE,25.3285999298,55.51720047
+571,LQMO,OMO,Mostar Airport,,Bosnia and Herzegovina,BA,43.2829017639,17.8458995819
+572,SVUQ,xxx,Uonquen Airport,,Venezuela,VE,4.9833331108,-61.7283325195
+573,xxxx,xxx,Ayod Airstrip,,South Sudan,SS,8.12408,31.41513
+574,HSOB,EBD,El Obeid Airport,,Sudan,SD,13.1532001495,30.2327003479
+575,FOON,MVB,Franceville/Mvengue Airport,,Gabon,GA,-1.656159997,13.4379997253
+576,KCVG,CVG,Cincinnati/Northern Kentucky Airport,KY,United States of America,US,39.0488375,-84.6678208333333
+577,xxxx,xxx,Walikale Airstrip,,Democratic Republic of the Congo,CD,-1.42536,28.07298
+578,PAUN,UNK,Unalakleet Airport,AK,United States of America,US,63.8885,-160.799111111111
+579,HSSJ,JUB,Juba Airport,,South Sudan,SS,4.872010231,31.6011009216
+580,LEZG,ZAZ,Zaragoza Airport,,Spain,ES,41.6661987305,-1.0415500402
+581,RPVP,PPS,Puerto Princesa Airport,,Philippines,PH,9.7421197891,118.7590026855
+582,EGPE,INV,Inverness Airport,,United Kingdom,GB,57.5424995422,-4.0475001335
+583,UNIT,xxx,Tura,,Russia,RU,64.3335113525,100.4328918457
+584,KMHT,MHT,Manchester Municipal Airport,NH,United States of America,US,42.9328055555556,-71.43575
+585,KPUB,PUB,Pueblo Memorial Airport,CO,United States of America,US,38.2899475,-104.498028055556
+586,xxxx,xxx,Wobagen Airstrip,,Papua New Guinea,PG,-9.45508,147.20381
+587,MMIA,CLQ,Colima Airport,,Mexico,MX,19.2770004272,-103.577003479
+588,KCIC,CIC,Chico Airport,CA,United States of America,US,39.7953888888889,-121.858416666667
+589,FZOA,KND,Kindu Airport,,Democratic Republic of the Congo,CD,-2.9191799164,25.9153995514
+590,CYYD,YYD,Smithers Airport,BC,Canada,CA,54.8246994019,-127.1829986572
+591,xxxx,xxx,Udskoye Airstrip,,Russia,RU,54.5098,134.41178
+592,DNAA,ABV,Abuja International Airport,,Nigeria,NG,9.0067901611,7.2631697655
+593,DNPO,PHC,Port Harcourt Airport,,Nigeria,NG,5.0154900551,6.9495902061
+594,KTRK,TKF,Truckee Airport,CA,United States of America,US,39.3200555555556,-120.139583333333
+595,CYVR,YVR,Vancouver International Airport,BC,Canada,CA,49.193901062,-123.1839981079
+596,KBTM,BTM,Butte Airport,MT,United States of America,US,45.9548055555556,-112.497472222222
+597,SEMC,XMS,Macas Airport,,Ecuador,EC,-2.2991700172,-78.1207962036
+598,KONT,ONT,Ontario International Airport,CA,United States of America,US,34.0560141666667,-117.6011875
+599,xxxx,xxx,Kozlovets,,Bulgaria,BG,43.50803,25.36324
+600,URSS,AER,Adler/Sochi Airport,,Russia,RU,43.4499015808,39.9566001892
+601,CYVC,YVC,La Ronge Airport,SK,Canada,CA,55.1514015198,-105.2620010376
+602,FPST,TMS,São Tomé Island Airport,,São Tomé and Príncipe,ST,0.3781749904,6.7121500969
+603,xxxx,xxx,Taiynsha  Airport,,Kazakhstan,KZ,51.12771,71.4283
+604,VNJL,JUM,Jumla Airport,,Nepal,NP,29.2742004395,82.1932983398
+605,OPLA,LHE,Lahore Airport,,Pakistan,PK,31.5216007233,74.4036026001
+606,OIMM,MHD,Mashhad Airport,,Iran,IR,36.2351989746,59.6409988403
+607,DNSO,SKO,Sokoto Airport,,Nigeria,NG,12.9162998199,5.2071900368
+608,WABL,ILA,Ilaga Airport,,Indonesia,ID,-3.8332800865,137.5829925537
+609,xxxx,xxx,Sandy Bay Airport,SK,Canada,CA,55.52634,-102.31393
+610,ORBD,xxx,Balad Air Base,,Iraq,IQ,33.9402008057,44.3615989685
+611,MBJT,GDT,Grand Turk Island Airport,,Turks and Caicos Islands,TC,21.4444999695,-71.1423034668
+612,xxxx,xxx,Walikale Airstrip,,Democratic Republic of the Congo,CD,-1.42536,28.07298
+613,UWWW,KUF,Samara Airport,,Russia,RU,53.504901886,50.1642990112
+614,SYKO,xxx,Kopinang Airfield,,Guyana,GY,6.80858,-58.16124
+615,FZNA,GOM,Goma Airport,,Democratic Republic of the Congo,CD,-1.6708099842,29.2385005951
+616,SPPH,xxx,Pampa Hermosa Airport,,Peru,PE,-7.1999998093,-75.3000030518
+617,EICA,xxx,Connemara Airport,,Ireland,IE,53.2303009033,-9.4677801132
+618,FZNA,GOM,Goma Airport,,Democratic Republic of the Congo,CD,-1.6708099842,29.2385005951
+619,HUMI,KCU,Masindi Airport,,Uganda,UG,1.7580599785,31.736700058
+620,KVIS,VIS,Visalia Airport,CA,United States of America,US,36.3186388888889,-119.392861111111
+621,LJMB,MBX,Maribor Airport,,Slovenia,SI,46.4799003601,15.6861000061
+622,PHLI,LIH,Kauai Island/Lihue Airport,HI,United States of America,US,21.9759833333333,-159.338957777778
+623,FNHU,NOV,Huambo Airport,,Angola,AO,-12.8088998795,15.7604999542
+624,KLNK,LNK,Lincoln Municipal Airport,NE,United States of America,US,40.8508888888889,-96.7591111111111
+625,HTMW,MWZ,Mwanza Airport,,Tanzania,TZ,-2.4444899559,32.9327011108
+626,LTAI,AYT,Antalya Airport,,Turkey,TR,36.8987007141,30.8005008698
+627,USPP,PEE,Perm Airport,,Russia,RU,57.9145011902,56.0211982727
+628,KOWA,OWA,Owatonna Airport,MN,United States of America,US,44.1229518055556,-93.2588264166667
+629,SDCO,SOD,Sorocaba Airport,SP,Brazil,BR,-23.4780006409,-47.4900016785
+630,ORBI,BGW,Baghdad International Airport,,Iraq,IQ,33.2625007629,44.2346000671
+631,UKON,NLV,Nikolaev Airport,,Ukraine,UA,47.0578994751,31.9197998047
+632,HCMM,MGQ,Mogadishu International Airport,,Somalia,SO,2.0144400597,45.3046989441
+633,xxxx,xxx,Maconacon Airport,,Philippines,PH,17.38769,122.2404
+634,SVCB,CBL,Ciudad Bolívar Airport,,Venezuela,VE,8.1221609116,-63.5369567871
+635,KALM,ALM,Alamogordo Municipal Airport,NM,United States of America,US,32.8394166666667,-105.991138888889
+636,UEEE,YKS,Yakutsk Airport,,Russia,RU,62.0932998657,129.7709960938
+637,WAJW,WMX,Wamena Airport,,Indonesia,ID,-4.1025099754,138.9570007324
+638,VTSM,USM,Koh Samui Airport,,Thailand,TH,9.5477895737,100.06199646
+639,WMBI,TPG,Taiping Airport,,Malaysia,MY,4.867000103,100.7170028687
+640,xxxx,xxx,Umgalala Airstrip,,Sudan,SD,15.58651,32.52318
+641,UIII,IKT,Irkutsk Airport,,Russia,RU,52.2680015564,104.388999939
+642,YPDN,DRW,Darwin Airport,NT,Australia,AU,-12.4146995544,130.8769989014
+643,OAKB,KBL,Kabul Airport,,Afghanistan,AF,34.5658988953,69.2123031616
+644,xxxx,xxx,Sorochinskiy Airstrip,,Kazakhstan,KZ,47.10485,51.94295
+645,CYKA,YKA,Kamloops Airport,BC,Canada,CA,50.7022018433,-120.4440002441
+646,FZBO,FDU,Bandundu Airport,,Democratic Republic of the Congo,CD,-3.3113200665,17.3817005157
+647,KSLC,SLC,Salt Lake City International Airport,UT,United States of America,US,40.7883933333333,-111.977773333333
+648,ZWKL,KRL,Korla Airport,,China,CN,41.6977996826,86.1288986206
+649,xxxx,xxx,Rackla Airstrip,YT,Canada,CA,52.61469,-121.51616
+650,CYXE,YXE,Saskatoon Airport,SK,Canada,CA,52.1707992554,-106.6999969482
+651,KROW,ROW,Roswell International Air Center Airport,NM,United States of America,US,33.2998696666667,-104.529397638889
+652,SAVC,CRD,Comodoro Rivadavia Airport,CB,Argentina,AR,-45.7853,-67.4655
+653,CYQD,YQD,The Pas/Grace Lake Airport,MB,Canada,CA,53.9714012146,-101.091003418
+654,CYRB,YRB,Resolute Airport,NU,Canada,CA,74.7169036865,-94.9693984985
+655,xxxx,xxx,Baranikovsky Airfield,,Russia,RU,45.34574,38.02615
+656,PABE,BET,Bethel Airport,AK,United States of America,US,60.7785555555556,-161.837166666667
+657,xxxx,xxx,Kenyam Airstrip,,Indonesia,ID,-6.17148,106.82648
+658,xxxx,xxx,Yellowknife Waterdrome,NT,Canada,CA,62.45446,-114.37094
+659,PADQ,ADQ,Kodiak Airport,AK,United States of America,US,57.7497938888889,-152.493943611111
+660,CYLK,YSG,Lutsel K'e Airport,NT,Canada,CA,62.4183006287,-110.6819992065
+661,xxxx,xxx,Pom Pom Camp Airstrip,,Botswana,BW,-24.65528,25.91903
+662,CYLW,YLW,Kelowna Airport,BC,Canada,CA,49.9561004639,-119.3779983521
+663,WAYB,ZGP,Bilogai/Sugapa Airport,,Indonesia,ID,-3.73931,137.03201
+664,VNJS,JMO,Jomsom Airport,,Nepal,NP,28.780426,83.723
+665,KCDC,CDC,Cedar City Airport,UT,United States of America,US,37.70097,-113.098850833333
+666,UKKB,xxx,Borodyanka Airfield,,Ukraine,UA,50.64637,29.94203
+667,ZWWW,URC,Urumqi Airport,,China,CN,43.9071006775,87.4741973877
+668,xxxx,xxx,Bolshoe Gryzlovo Airport,,Russia,RU,54.8045,37.62952
+669,CYWG,YWG,Winnipeg International Airport,MB,Canada,CA,49.9099998474,-97.2398986816
+670,xxxx,xxx,Libby Airport,MT,United States of America,US,48.27037,-115.47597
+671,CYSK,YSK,Sanikiluaq Airport,NU,Canada,CA,56.5377998352,-79.2466964722
+672,VYHH,HEH,Heho Airport,,Myanmar,MM,20.7469997406,96.7919998169
+673,UAAA,ALA,Almaty Airport,,Kazakhstan,KZ,43.3521003723,77.0404968262
+674,FZNA,GOM,Goma Airport,,Democratic Republic of the Congo,CD,-1.6708099842,29.2385005951
+675,PADL,DLG,Dillingham Municipal Airport,AK,United States of America,US,59.0446666666667,-158.5055
+676,xxxx,xxx,Tash Kumyr Airstrip,,Kyrgyzstan,KG,41.18545,72.17616
+677,FKKD,DLA,Douala Airport,,Cameroon,CM,4.0060801506,9.7194795609
+678,FBFT,FRW,Francistown Airport,,Botswana,BW,-21.1595993042,27.4745006561
+679,xxxx,xxx,Bear Mountain Lodge Airstrip,AK,United States of America,US,41.31454,-73.98846
+680,BIAR,AEY,Akureyri Airport,,Iceland,IS,65.6600036621,-18.0727005005
+681,xxxx,xxx,Ivanhoe Lake,NT,Canada,CA,45.42178,-75.69117
+682,SCVM,KNA,Viña del Mar Airport,,Chile,CL,-32.9496002197,-71.4785995483
+683,CYAM,YAM,Sault Ste. Marie Airport,ON,Canada,CA,46.4850006104,-84.5093994141
+684,TJCP,CPX,Culebra Airport,,Puerto Rico,PR,18.3129488888889,-65.3038802777778
+685,WBKT,KUD,Kudat Airport,,Malaysia,MY,6.9225001335,116.8359985352
+686,MMDA,CUA,Ciudad Constitución Airport,,Mexico,MX,25.0538005829,-111.6149978638
+687,CYRL,YRL,Red Lake Airport,ON,Canada,CA,51.0668983459,-93.7930984497
+688,MMCZ,CZM,Cozumel Airport,,Mexico,MX,20.5223999023,-86.9255981445
+689,xxxx,xxx,Purari Airstrip,,Papua New Guinea,PG,-6.66696,146.99706
+690,PASM,KSM,Saint Mary's Airport,AK,United States of America,US,62.0608308333333,-163.301836388889
+691,FNLU,LAD,Luanda Airport,,Angola,AO,-8.8583698273,13.2312002182
+692,SJNP,NPR,Novo Progresso Airport,PA,Brazil,BR,-7.1258330345,-55.4008331299
+693,PHNL,HNL,Honolulu International Airport,HI,United States of America,US,21.3178172222222,-157.9202275
+694,KASE,ASE,Aspen Airport,CO,United States of America,US,39.2218888888889,-106.868222222222
+695,SYIB,IMB,Imbaimadai Airport,,Guyana,GY,5.7081098557,-60.2942008972
+696,VNJL,JUM,Jumla Airport,,Nepal,NP,29.2742004395,82.1932983398
+697,PABE,BET,Bethel Airport,AK,United States of America,US,60.7785555555556,-161.837166666667
+698,SUCM,xxx,Carmelo/Zagarzazú International Airport,,Uruguay,UY,-33.9661102295,-58.3252792358
+699,KBHM,BHM,Birmingham Airport,AL,United States of America,US,33.5638888888889,-86.7523055555556
+700,RCQC,MZG,Magong Airport,,Taiwan,TW,23.5687007904,119.6279983521
+701,GABS,BKO,Bamako Airport,,Mali,ML,12.5334997177,-7.9499402046
+702,xxxx,xxx,Panyagor Airstrip,,South Sudan,SS,4.83975,31.59758
+703,SYKU,xxx,Karisparu Airport,,Guyana,GY,6.80858,-58.16124
+704,xxxx,xxx,Shatyrkul Mine,,Kazakhstan,KZ,51.12771,71.4283
+705,MBPV,PLS,Providenciales International Airport,,Turks and Caicos Islands,TC,21.7735996246,-72.2658996582
+706,CYXS,YXS,Prince George Airport,BC,Canada,CA,53.8894004822,-122.6790008545
+707,LEZL,SVQ,Sevilla Airport,,Spain,ES,37.4179992676,-5.8931097984
+708,EYKL,KLJ,Klaipeda Airport,,Lithuania,LT,55.7118988037,21.2427997589
+709,MMQT,QRO,Querétaro Intercontinental Airport,,Mexico,MX,20.6173000336,-100.185997009
+710,xxxx,WFB,Ketchikan Harbor Seaplane Base,AK,United States of America,US,56.01194,-132.82861
+711,xxxx,xxx,Stancuta Airstrip,,Romania,RO,44.89654,27.8295
+712,LZDB,xxx,Dubnica Airport,,Slovakia,SK,48.9968986511,18.192199707
+713,LZDB,xxx,Dubnica Airport,,Slovakia,SK,48.9968986511,18.192199707
+714,EGVN,BZZ,Brize Norton RAF Station,,United Kingdom,GB,51.75,-1.5836199522
+715,FACT,CPT,Cape Town International Airport,,South Africa,ZA,-33.9648017883,18.6016998291
+716,xxxx,YAX,Angling Lake/Wapekeka Airport,ON,Canada,CA,53.8492012024,-89.5793991089
+717,KTUS,TUS,Tucson International Airport,AZ,United States of America,US,32.1160691666667,-110.941013888889
+718,UWOR,OSW,Orsk Airport,,Russia,RU,51.0724983215,58.5956001282
+719,VNJS,JMO,Jomsom Airport,,Nepal,NP,28.780426,83.723
+720,VGJR,JSR,Jessore Airport,,Bangladesh,BD,23.1837997437,89.1607971191
+721,URRR,ROV,Rostov Airport,,Russia,RU,47.2582015991,39.8180999756
+722,AYKI,UNG,Kiunga Airport,,Papua New Guinea,PG,-6.1257100105,141.2819976807
+723,UTAM,MYP,Mary Airport,,Turkmenistan,TM,37.6194000244,61.8967018127
+724,xxxx,xxx,Novopokrovskoye Airstrip,,Russia,RU,51.5765,43.59958
+725,UIII,IKT,Irkutsk Airport,,Russia,RU,52.2680015564,104.388999939
+726,xxxx,xxx,Dunnellon/Marion County Airport,FL,United States of America,US,29.06216,-82.36858
+727,YSEN,xxx,Serpentine Airport,WA,Australia,AU,-32.3949661255,115.8709869385
+728,FVMU,UTA,Mutare Airfield,,Zimbabwe,ZW,-18.9974994659,32.6272010803
+729,WAJO,OKL,Oksibil Airport,,Indonesia,ID,-5.0910601616,140.6100006104
+730,PAPE,KPV,Perryville Airport,AK,United States of America,US,55.9067236111111,-159.160829166667
+731,SYET,xxx,Eteringbang Airport,,Guyana,GY,6.80858,-58.16124
+732,xxxx,xxx,Chernoye Airport,,Russia,RU,43.44806,39.93555
+733,UAII,CIT,Shymkent Airport,,Kazakhstan,KZ,42.364200592,69.4788970947
+734,FNLU,LAD,Luanda Airport,,Angola,AO,-8.8583698273,13.2312002182
+735,SPCL,PCL,Pucallpa Airport,,Peru,PE,-8.3779401779,-74.5743026733
+736,xxxx,xxx,Udskoye Airstrip,,Russia,RU,54.5098,134.41178
+737,UHNX,xxx,Nelkan Airport,,Russia,RU,43.44806,39.93555
+738,EDNY,FDH,Friedrichshafen Airport,,Germany,DE,47.6712989807,9.5114898682
+739,VNST,IMK,Simikot Airport,,Nepal,NP,29.9710998535,81.818901062
+740,xxxx,xxx,Nsumbula Airstrip,,Democratic Republic of the Congo,CD,-4.31047,15.28932
+741,LSMD,xxx,Dübendorf Air Base,,Switzerland,CH,47.398601532,8.648229599
+742,PTKK,TKK,Chuuk/Weno International Airport,,Micronesia,FM,7.46189083333333,151.843017222222
+743,YBHB,xxx,Bathurst Harbour Airport,TAS,Australia,AU,-43.4207000732,146.1560058594
+744,xxxx,WFB,Ketchikan Harbor Seaplane Base,AK,United States of America,US,56.01194,-132.82861
+745,xxxx,YHC,Hakai Pass Seaplane Base,BC,Canada,CA,48.94706,-125.55883
+746,xxxx,xxx,Fakhrabad Airfield,,Tajikistan,TJ,38.56792,68.77152
+747,CYMA,YMA,Mayo Airport,YT,Canada,CA,63.6164016724,-135.8679962158
+748,FZNP,BNC,Beni Airport,,Democratic Republic of the Congo,CD,0.5749999881,29.4738998413
+749,UACC,NQZ,Nursultan Nazarbayev International Airport,,Kazakhstan,KZ,51.0222015381,71.4669036865
+750,FAGG,GRJ,George Airport,,South Africa,ZA,-34.0055999756,22.378900528
+751,YSRI,XRH,Richmond RAAF Base,NSW,Australia,AU,-33.6006011963,150.7810058594
+752,KHYS,HYS,Hays Municipal Airport,KS,United States of America,US,38.8422222222222,-99.2731666666667
+753,xxxx,xxx,Bardale Airstrip,,Somalia,SO,7.06583,47.87116
+754,UWGB,xxx,Bolshoye Boldino Airport,,Russia,RU,55.0200004578,45.3149986267
+755,xxxx,xxx,Kyren Airport,,Russia,RU,55.75696,37.61502
+756,HSWW,WUU,Wau Airport,,South Sudan,SS,7.7258300781,27.9750003815
+757,ZSGZ,KOW,Ganzhou Airport,,China,CN,25.825799942,114.912002563
+758,xxxx,xxx,Yuai Airstrip,,South Sudan,SS,4.83975,31.59758
+759,KTRK,TKF,Truckee Airport,CA,United States of America,US,39.3200555555556,-120.139583333333
+760,EDWY,NRD,Norderney Airfield,,Germany,DE,53.706943512,7.2300000191
+761,UITK,xxx,Kazachinskoye Airport,,Russia,RU,56.2801513672,107.567565918
+762,WAYB,ZGP,Bilogai/Sugapa Airport,,Indonesia,ID,-3.73931,137.03201
+763,UWKP,xxx,Menzelinsk Airport,,Russia,RU,55.29696,61.51207
+764,HSMB,xxx,Maban Airstrip,,South Sudan,SS,4.83975,31.59758
+765,UIII,IKT,Irkutsk Airport,,Russia,RU,52.2680015564,104.388999939
+766,FZMW,xxx,Shabunda Airport,,Democratic Republic of the Congo,CD,-2.6830000877,27.3330001831
+767,ZGGG,CAN,Guangzhou Baiyun International Airport,,China,CN,23.3924007416,113.2990036011
+768,KBYI,BYI,Burley Municipal Airport,ID,United States of America,US,42.5426111111111,-113.771527777778
+769,UKLU,UDJ,Uzhgorod Airport,,Ukraine,UA,48.6343002319,22.2633991241
+770,VNJS,JMO,Jomsom Airport,,Nepal,NP,28.780426,83.723
+771,KOKB,OCN,Oceanside Municipal Airport,CA,United States of America,US,33.2179763888889,-117.3515075
+772,xxxx,xxx,Raeford West Airport,NC,United States of America,US,35.0182,-79.18943
+773,EPPT,xxx,Piotrków Trybunalski Airport,,Poland,PL,51.3830986023,19.6882991791
+774,KRNT,RNT,Renton Airport,WA,United States of America,US,47.4931388888889,-122.21575
+775,HTBU,BKZ,Bukoba Airport,,Tanzania,TZ,-1.332,31.8212
+776,KRNT,RNT,Renton Airport,WA,United States of America,US,47.4931388888889,-122.21575

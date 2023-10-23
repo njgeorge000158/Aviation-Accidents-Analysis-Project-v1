@@ -28,16 +28,32 @@ $(document).ready(function(){
       if (str.length != 4) 
        {
         newlink = "http://127.0.0.1:8000/all" 
+        initial_graph(newlink)
        }
       else
       {
         newlink = "http://127.0.0.1:8000/year?year=" + str;
+        display_graph(newlink)
       } 
       
-      //console.log(newlink)
-      display_graph(newlink)
-      //alert(str);
+      
   });
+  $("#CarrierBtn").click(function(){
+    var carrierstr = $("#carrierInput").val();
+    //console.log("str" + len(str));
+    if (carrierstr.length == 0) 
+     {
+      newlink = "http://127.0.0.1:8000/all" 
+      initial_graph(newlink)
+     }
+    else
+    {
+      newlink = "http://127.0.0.1:8000//carriertypesearch?carriertype=" + carrierstr;
+      display_graph(newlink)
+    } 
+    
+    
+});
 });
 
 function countryChange (countryname)
@@ -74,18 +90,18 @@ for (let i = 0; i < myData.length; i++) {
   let color = "";
   //if (aviation_accidents[i].fat > 200) {
   if (myData[i].fat > 200) {
-    color = "#c1f0f0";
+    color = "yellow";
   }
   //else if (aviation_accidents[i].fat > 150) {
   else if (myData[i].fat > 150) {  
-    color = "#e67300";
+    color = "blue";
   }
   //else if (aviation_accidents[i].fat > 120) {
   else if (myData[i].fat > 120) {
-    color = "#ff4d4d";
+    color = "green";
   }
   else {
-    color = "black";
+    color = "violet";
   }
 
   // Add circles to the map.
@@ -136,25 +152,25 @@ for (let i = 0; i < myData.length; i++) {
   let color = "";
   //if (aviation_accidents[i].fat > 200) {
   if (myData[i].fat > 200) {
-    color = "#800000";
+    color = "yellow";
   }
   //else if (aviation_accidents[i].fat > 150) {
   else if (myData[i].fat > 150) {  
-    color = "#e67300";
+    color = "blue";
   }
   //else if (aviation_accidents[i].fat > 120) {
   else if (myData[i].fat > 120) {
-    color = "#c1f0f0";
+    color = "green";
   }
   else {
-    color = "black";
+    color = "violet";
   }
 
   // Add circles to the map.
   //L.circle(([aviation_accidents[i].LAT,aviation_accidents[i].LNG]), {
   L.circle(([myData[i].LAT,myData[i].LNG]), {
     fillOpacity: 0.75,
-    color: "#000066",
+    color: "white",
     fillColor: color,
     // Adjust the radius.
     //radius: Math.sqrt(aviation_accidents[i].fat) * 20000
@@ -193,25 +209,25 @@ for (let i = 0; i < myData.length; i++) {
   let color = "";
   //if (aviation_accidents[i].fat > 200) {
   if (myData[i].fat > 200) {
-    color = "#800000";
+    color = "yellow";
   }
   //else if (aviation_accidents[i].fat > 150) {
   else if (myData[i].fat > 150) {  
-    color = "#e67300";
+    color = "blue";
   }
   //else if (aviation_accidents[i].fat > 120) {
   else if (myData[i].fat > 120) {
-    color = "#c1f0f0";
+    color = "green";
   }
   else {
-    color = "black";
+    color = "violet";
   }
 
   // Add circles to the map.
   //L.circle(([aviation_accidents[i].LAT,aviation_accidents[i].LNG]), {
   L.circle(([myData[i].LAT,myData[i].LNG]), {
     fillOpacity: 0.75,
-    color: "#000066",
+    color: "white",
     fillColor: color,
     // Adjust the radius.
     //radius: Math.sqrt(aviation_accidents[i].fat) * 20000

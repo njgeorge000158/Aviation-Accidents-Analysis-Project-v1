@@ -35,6 +35,7 @@
  #      DisplayPlotFromDataFrame
  #      DisplayMultiLineGraphFromDataFrame
  #      DisplayTwoByFourHistogramsFromDataFrameList
+ #      InsertJSONFileIntoMongoDBCollection
  #
  #
  #  Date            Description                             Programmer
@@ -61,6 +62,8 @@
  #                        DisplayTwoByFourHistogramsFromDataFrameList
  #                                                          N. James George
  #  09/29/2023      Added DisplayTwoByFourPlotsFromDataFrameList
+ #                                                          N. James George
+ #  10/18/2023      Transferred InsertJSONFileIntoMongoDBCollection
  #                                                          N. James George
  #
  #******************************************************************************************/
@@ -4558,6 +4561,85 @@ def DisplayTwoByFourPlotsFromDataFrameList \
                  + f'in source file, {CONSTANT_LOCAL_FILE_NAME},\n'
                  + f'with the caption, {figureTitleString},\n'
                  + f'was unable to create a two-by-four set of eight plots.')
+
+
+# In[30]:
+
+
+#*******************************************************************************************
+ #
+ #  Subroutine Name:  InsertJSONFileIntoMongoDBCollection
+ #
+ #  Subroutine Description:
+ #      This subroutine reads the data from a JSON file and populates a MongoDB 
+ #      collection with the information.  It also converts the date and time text
+ #      string in the 'RatingDate' fields to a date text string.
+ #
+ #
+ #  Subroutine Parameters:
+ #
+ #  Type    Name            Description
+ #  -----   -------------   ----------------------------------------------
+ #  PyMongoCollectionObject
+ #          pyMongoCollectionObject
+ #                          This parameter is the PyMongoCollectionObject
+ #                          for the current collection.
+ #  String
+ #          filePathString
+ #                          This parameter is the file path for the JSON data file.
+ #
+ #
+ #  Date                Description                                 Programmer
+ #  ---------------     ------------------------------------        ------------------
+ #  9/18/2023           Initial Development                         N. James George
+ #  9/20/2023           Added conversion of 'RatingDate' to date String
+ #                                                                  N. James George
+ #
+ #******************************************************************************************/
+
+def InsertJSONFileIntoMongoDBCollection \
+        (pyMongoCollectionObject,
+         filePathString):
+        
+    try:
+
+        with open(filePathString) as jsonFile:
+    
+            jsonDataObject \
+                = json \
+                    .load \
+                        (jsonFile)
+
+        
+            for jsonDictionary in jsonDataObject:
+                
+                jsonDictionary \
+                    ['RatingDate'] \
+                        = jsonDictionary \
+                            ['RatingDate'] \
+                            [0:10]
+            
+        
+        if isinstance(jsonDataObject, list):
+            
+            pyMongoCollectionObject \
+                .insert_many \
+                    (jsonDataObject)
+            
+        else:
+            
+            pyMongoCollectionObject \
+                .insert_one \
+                    (jsonDataObject)
+            
+    except:
+        
+        log_subroutine \
+            .PrintAndLogWriteText \
+                ('The subroutine, InsertJSONFileIntoMongoDBCollection, ' 
+                 + f'in source file, {CONSTANT_LOCAL_FILE_NAME}, ' 
+                 + 'cannot insert a JSON file into a Mongo DB database ' 
+                 + 'as a Collection.')
 
 
 # In[ ]:
