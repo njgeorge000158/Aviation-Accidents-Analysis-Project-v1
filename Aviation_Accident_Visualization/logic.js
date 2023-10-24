@@ -211,7 +211,7 @@ for (let i = 0; i < myData.length; i++) {
     div.innerHTML += "<h3 style = 'text-align: center'>Fatalities</h3>";
     for (let i=0; i < fatalityScale.length; i++){
       div.innerHTML +=
-      '<i style="background:' + colorChooser(fatalityScale[i] +1) + '"></i>' +
+      '<i style="background:' + colorchooser(fatalityScale[i] +1) + '"></i>' +
       fatalityScale [i] + (fatalityScale[i+1] ? '&ndash;' + fatalityScale[i+1]+'<br>': '+');
     }
     return div;

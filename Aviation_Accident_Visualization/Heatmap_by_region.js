@@ -32,8 +32,8 @@ for (let i = 0; i < myData.length; i++) {
 }
 
   let heat = L.heatLayer(heatArray, {
-    radius: 50,
-    blur: 8,
+    radius: 45,
+    blur: 10,
     minOpacity: 0.1
   }).addTo(myMap);
 
